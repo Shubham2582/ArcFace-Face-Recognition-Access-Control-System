@@ -1,0 +1,20 @@
+# Core dependencies
+numpy>=1.19.0
+# Choose one of the following OpenCV packages based on your needs:
+# opencv-python>=4.5.0         # Basic OpenCV
+# opencv-python-headless>=4.5.0 # OpenCV without GUI support (for servers)
+opencv-contrib-python>=4.5.0   # Full OpenCV with contrib modules and GUI support
+scikit-learn>=0.24.0
+matplotlib>=3.3.0
+tqdm>=4.50.0
+
+# Face recognition
+insightface>=0.6.0
+onnxruntime>=1.8.0  # CPU version, use onnxruntime-gpu for GPU support
+
+# Database
+faiss-cpu>=1.7.0  # CPU version, use faiss-gpu for GPU support
+
+# Optional dependencies
+# onnxruntime-gpu>=1.8.0  # For GPU acceleration of face detection/embedding
+# faiss-gpu>=1.7.0  # For GPU acceleration of database operations
