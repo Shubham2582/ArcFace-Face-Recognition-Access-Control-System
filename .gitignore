@@ -31,8 +31,3 @@ env/
 *.swp
 *.swo
 
-# Project specific
-data/
-logs/
-*.pkl
-*.bin
