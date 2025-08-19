@@ -1,0 +1,15 @@
+2025-03-11 02:21:30,896 - src.database.embeddings_db - INFO - Loaded database with 51 identities
+2025-03-11 02:23:02,432 - src.database.embeddings_db - INFO - Loaded database with 51 identities
+2025-03-11 02:27:51,806 - src.face.detector - INFO - Initialized face detector with model: buffalo_l
+2025-03-11 02:27:51,806 - src.face.embedder - INFO - Initialized face embedder
+2025-03-11 02:27:51,806 - src.database.embeddings_db - INFO - Loaded database with 51 identities
+2025-03-11 02:27:52,834 - src.database.embeddings_db - INFO - Added identity: John Smith with 4 images
+2025-03-11 02:27:52,834 - src.database.embeddings_db - INFO - Saved database with 52 identities
+2025-03-11 02:28:56,255 - src.face.detector - INFO - Initialized face detector with model: buffalo_l
+2025-03-11 02:28:56,255 - src.face.embedder - INFO - Initialized face embedder
+2025-03-11 02:28:56,255 - src.database.embeddings_db - INFO - Loaded database with 52 identities
+2025-03-11 02:28:57,267 - src.database.embeddings_db - INFO - Added identity: vipin with 4 images
+2025-03-11 02:28:57,268 - src.database.embeddings_db - INFO - Saved database with 53 identities
+2025-03-11 02:29:21,740 - src.database.embeddings_db - INFO - Loaded database with 53 identities
+2025-03-11 02:29:23,435 - src.database.embeddings_db - INFO - Removed identity: John Smith
+2025-03-11 02:29:23,435 - src.database.embeddings_db - INFO - Saved database with 52 identities

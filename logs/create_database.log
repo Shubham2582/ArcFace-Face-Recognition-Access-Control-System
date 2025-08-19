@@ -1,0 +1,1114 @@
+2025-03-08 17:52:07,071 - __main__ - INFO - Creating database...
+2025-03-08 17:52:08,830 - src.face.detector - INFO - Initialized face detector with model: buffalo_l
+2025-03-08 17:52:08,830 - src.face.embedder - INFO - Initialized face embedder
+2025-03-08 17:52:08,830 - tools.create_database - INFO - Creating database from F:\projects\face_recognition_system\celeb_images
+2025-03-08 17:52:08,830 - tools.create_database - INFO - Using standard database
+2025-03-08 17:52:08,834 - tools.create_database - INFO - Found 51 person folders
+2025-03-08 17:52:08,836 - tools.create_database - INFO - Processing Aamir Khan's images...
+2025-03-08 17:52:09,661 - src.database.embeddings_db - INFO - Added identity: Aamir Khan with 3 images
+2025-03-08 17:52:09,661 - tools.create_database - INFO - Added Aamir Khan to database with 3 images
+2025-03-08 17:52:09,661 - tools.create_database - INFO - Processing Aishwarya Rai's images...
+2025-03-08 17:52:10,291 - src.database.embeddings_db - INFO - Added identity: Aishwarya Rai with 3 images
+2025-03-08 17:52:10,291 - tools.create_database - INFO - Added Aishwarya Rai to database with 3 images
+2025-03-08 17:52:10,291 - tools.create_database - INFO - Processing Ajay Devgn's images...
+2025-03-08 17:52:11,116 - src.database.embeddings_db - INFO - Added identity: Ajay Devgn with 3 images
+2025-03-08 17:52:11,116 - tools.create_database - INFO - Added Ajay Devgn to database with 3 images
+2025-03-08 17:52:11,116 - tools.create_database - INFO - Processing Akshay Kumar's images...
+2025-03-08 17:52:11,789 - src.database.embeddings_db - INFO - Added identity: Akshay Kumar with 3 images
+2025-03-08 17:52:11,789 - tools.create_database - INFO - Added Akshay Kumar to database with 3 images
+2025-03-08 17:52:11,790 - tools.create_database - INFO - Processing Alia Bhatt's images...
+2025-03-08 17:52:12,639 - src.database.embeddings_db - INFO - Added identity: Alia Bhatt with 3 images
+2025-03-08 17:52:12,641 - tools.create_database - INFO - Added Alia Bhatt to database with 3 images
+2025-03-08 17:52:12,641 - tools.create_database - INFO - Processing Allu Arjun's images...
+2025-03-08 17:52:13,436 - src.database.embeddings_db - INFO - Added identity: Allu Arjun with 3 images
+2025-03-08 17:52:13,436 - tools.create_database - INFO - Added Allu Arjun to database with 3 images
+2025-03-08 17:52:13,436 - tools.create_database - INFO - Processing Amit Shah's images...
+2025-03-08 17:52:14,230 - src.database.embeddings_db - INFO - Added identity: Amit Shah with 3 images
+2025-03-08 17:52:14,230 - tools.create_database - INFO - Added Amit Shah to database with 3 images
+2025-03-08 17:52:14,231 - tools.create_database - INFO - Processing Amitabh Bachchan's images...
+2025-03-08 17:52:14,935 - src.database.embeddings_db - INFO - Added identity: Amitabh Bachchan with 3 images
+2025-03-08 17:52:14,935 - tools.create_database - INFO - Added Amitabh Bachchan to database with 3 images
+2025-03-08 17:52:14,935 - tools.create_database - INFO - Processing Anushka Sharma's images...
+2025-03-08 17:52:16,040 - src.database.embeddings_db - INFO - Added identity: Anushka Sharma with 3 images
+2025-03-08 17:52:16,040 - tools.create_database - INFO - Added Anushka Sharma to database with 3 images
+2025-03-08 17:52:16,040 - tools.create_database - INFO - Processing Arvind Kejriwal's images...
+2025-03-08 17:52:16,719 - src.database.embeddings_db - INFO - Added identity: Arvind Kejriwal with 3 images
+2025-03-08 17:52:16,719 - tools.create_database - INFO - Added Arvind Kejriwal to database with 3 images
+2025-03-08 17:52:16,719 - tools.create_database - INFO - Processing Ayushmann Khurrana's images...
+2025-03-08 17:52:17,376 - src.database.embeddings_db - INFO - Added identity: Ayushmann Khurrana with 3 images
+2025-03-08 17:52:17,376 - tools.create_database - INFO - Added Ayushmann Khurrana to database with 3 images
+2025-03-08 17:52:17,376 - tools.create_database - INFO - Processing Deepika Padukone's images...
+2025-03-08 17:52:18,393 - src.database.embeddings_db - INFO - Added identity: Deepika Padukone with 3 images
+2025-03-08 17:52:18,393 - tools.create_database - INFO - Added Deepika Padukone to database with 3 images
+2025-03-08 17:52:18,393 - tools.create_database - INFO - Processing Dhanush's images...
+2025-03-08 17:52:19,094 - src.database.embeddings_db - INFO - Added identity: Dhanush with 3 images
+2025-03-08 17:52:19,094 - tools.create_database - INFO - Added Dhanush to database with 3 images
+2025-03-08 17:52:19,094 - tools.create_database - INFO - Processing Hardik Pandya's images...
+2025-03-08 17:52:19,532 - src.database.embeddings_db - INFO - Added identity: Hardik Pandya with 2 images
+2025-03-08 17:52:19,532 - tools.create_database - INFO - Added Hardik Pandya to database with 2 images
+2025-03-08 17:52:19,532 - tools.create_database - INFO - Processing Hrithik Roshan's images...
+2025-03-08 17:52:20,194 - src.database.embeddings_db - INFO - Added identity: Hrithik Roshan with 3 images
+2025-03-08 17:52:20,194 - tools.create_database - INFO - Added Hrithik Roshan to database with 3 images
+2025-03-08 17:52:20,198 - tools.create_database - INFO - Processing Jasprit Bumrah's images...
+2025-03-08 17:52:21,064 - src.database.embeddings_db - INFO - Added identity: Jasprit Bumrah with 3 images
+2025-03-08 17:52:21,064 - tools.create_database - INFO - Added Jasprit Bumrah to database with 3 images
+2025-03-08 17:52:21,064 - tools.create_database - INFO - Processing Kamal Haasan's images...
+2025-03-08 17:52:21,727 - src.database.embeddings_db - INFO - Added identity: Kamal Haasan with 3 images
+2025-03-08 17:52:21,727 - tools.create_database - INFO - Added Kamal Haasan to database with 3 images
+2025-03-08 17:52:21,727 - tools.create_database - INFO - Processing Kareena Kapoor's images...
+2025-03-08 17:52:22,409 - src.database.embeddings_db - INFO - Added identity: Kareena Kapoor with 3 images
+2025-03-08 17:52:22,409 - tools.create_database - INFO - Added Kareena Kapoor to database with 3 images
+2025-03-08 17:52:22,409 - tools.create_database - INFO - Processing Katrina Kaif's images...
+2025-03-08 17:52:23,109 - src.database.embeddings_db - INFO - Added identity: Katrina Kaif with 3 images
+2025-03-08 17:52:23,109 - tools.create_database - INFO - Added Katrina Kaif to database with 3 images
+2025-03-08 17:52:23,109 - tools.create_database - INFO - Processing Madhuri Dixit's images...
+2025-03-08 17:52:23,773 - src.database.embeddings_db - INFO - Added identity: Madhuri Dixit with 3 images
+2025-03-08 17:52:23,773 - tools.create_database - INFO - Added Madhuri Dixit to database with 3 images
+2025-03-08 17:52:23,773 - tools.create_database - INFO - Processing Mary Kom's images...
+2025-03-08 17:52:24,227 - src.database.embeddings_db - INFO - Added identity: Mary Kom with 2 images
+2025-03-08 17:52:24,227 - tools.create_database - INFO - Added Mary Kom to database with 2 images
+2025-03-08 17:52:24,227 - tools.create_database - INFO - Processing mayank's images...
+2025-03-08 17:52:25,077 - src.database.embeddings_db - INFO - Added identity: mayank with 3 images
+2025-03-08 17:52:25,077 - tools.create_database - INFO - Added mayank to database with 3 images
+2025-03-08 17:52:25,077 - tools.create_database - INFO - Processing MS Dhoni's images...
+2025-03-08 17:52:25,814 - src.database.embeddings_db - INFO - Added identity: MS Dhoni with 3 images
+2025-03-08 17:52:25,815 - tools.create_database - INFO - Added MS Dhoni to database with 3 images
+2025-03-08 17:52:25,815 - tools.create_database - INFO - Processing Narendra Modi's images...
+2025-03-08 17:52:26,538 - src.database.embeddings_db - INFO - Added identity: Narendra Modi with 3 images
+2025-03-08 17:52:26,538 - tools.create_database - INFO - Added Narendra Modi to database with 3 images
+2025-03-08 17:52:26,538 - tools.create_database - INFO - Processing Neeraj Chopra's images...
+2025-03-08 17:52:27,213 - src.database.embeddings_db - INFO - Added identity: Neeraj Chopra with 3 images
+2025-03-08 17:52:27,213 - tools.create_database - INFO - Added Neeraj Chopra to database with 3 images
+2025-03-08 17:52:27,224 - tools.create_database - INFO - Processing Prabhas's images...
+2025-03-08 17:52:27,841 - src.database.embeddings_db - INFO - Added identity: Prabhas with 3 images
+2025-03-08 17:52:27,841 - tools.create_database - INFO - Added Prabhas to database with 3 images
+2025-03-08 17:52:27,841 - tools.create_database - INFO - Processing Priyanka Chopra's images...
+2025-03-08 17:52:28,619 - src.database.embeddings_db - INFO - Added identity: Priyanka Chopra with 3 images
+2025-03-08 17:52:28,619 - tools.create_database - INFO - Added Priyanka Chopra to database with 3 images
+2025-03-08 17:52:28,619 - tools.create_database - INFO - Processing PV Sindhu's images...
+2025-03-08 17:52:30,364 - src.database.embeddings_db - INFO - Added identity: PV Sindhu with 3 images
+2025-03-08 17:52:30,364 - tools.create_database - INFO - Added PV Sindhu to database with 3 images
+2025-03-08 17:52:30,366 - tools.create_database - INFO - Processing Rahul Dravid's images...
+2025-03-08 17:52:31,014 - src.database.embeddings_db - INFO - Added identity: Rahul Dravid with 3 images
+2025-03-08 17:52:31,014 - tools.create_database - INFO - Added Rahul Dravid to database with 3 images
+2025-03-08 17:52:31,014 - tools.create_database - INFO - Processing Rahul Gandhi's images...
+2025-03-08 17:52:31,655 - src.database.embeddings_db - INFO - Added identity: Rahul Gandhi with 3 images
+2025-03-08 17:52:31,655 - tools.create_database - INFO - Added Rahul Gandhi to database with 3 images
+2025-03-08 17:52:31,658 - tools.create_database - INFO - Processing Rajinikanth's images...
+2025-03-08 17:52:33,570 - src.database.embeddings_db - INFO - Added identity: Rajinikanth with 3 images
+2025-03-08 17:52:33,570 - tools.create_database - INFO - Added Rajinikanth to database with 3 images
+2025-03-08 17:52:33,570 - tools.create_database - INFO - Processing Rajkummar Rao's images...
+2025-03-08 17:52:34,303 - src.database.embeddings_db - INFO - Added identity: Rajkummar Rao with 3 images
+2025-03-08 17:52:34,303 - tools.create_database - INFO - Added Rajkummar Rao to database with 3 images
+2025-03-08 17:52:34,303 - tools.create_database - INFO - Processing Ranbir Kapoor's images...
+2025-03-08 17:52:35,370 - src.database.embeddings_db - INFO - Added identity: Ranbir Kapoor with 3 images
+2025-03-08 17:52:35,371 - tools.create_database - INFO - Added Ranbir Kapoor to database with 3 images
+2025-03-08 17:52:35,371 - tools.create_database - INFO - Processing Rani Mukerji's images...
+2025-03-08 17:52:35,896 - src.database.embeddings_db - INFO - Added identity: Rani Mukerji with 2 images
+2025-03-08 17:52:35,896 - tools.create_database - INFO - Added Rani Mukerji to database with 2 images
+2025-03-08 17:52:35,896 - tools.create_database - INFO - Processing Ranveer Singh's images...
+2025-03-08 17:52:36,299 - src.database.embeddings_db - INFO - Added identity: Ranveer Singh with 2 images
+2025-03-08 17:52:36,301 - tools.create_database - INFO - Added Ranveer Singh to database with 2 images
+2025-03-08 17:52:36,301 - tools.create_database - INFO - Processing Rekha's images...
+2025-03-08 17:52:36,362 - src.utils.image - WARNING - Failed to read image: F:\projects\face_recognition_system\celeb_images\Rekha\Rekha_1.jpg
+2025-03-08 17:52:36,787 - src.database.embeddings_db - INFO - Added identity: Rekha with 2 images
+2025-03-08 17:52:36,787 - tools.create_database - INFO - Added Rekha to database with 2 images
+2025-03-08 17:52:36,787 - tools.create_database - INFO - Processing Rohit Sharma's images...
+2025-03-08 17:52:37,454 - src.database.embeddings_db - INFO - Added identity: Rohit Sharma with 3 images
+2025-03-08 17:52:37,454 - tools.create_database - INFO - Added Rohit Sharma to database with 3 images
+2025-03-08 17:52:37,456 - tools.create_database - INFO - Processing Sachin Tendulkar's images...
+2025-03-08 17:52:37,783 - src.utils.image - WARNING - Failed to read image: F:\projects\face_recognition_system\celeb_images\Sachin Tendulkar\Sachin Tendulkar_2.jpg
+2025-03-08 17:52:37,997 - src.database.embeddings_db - INFO - Added identity: Sachin Tendulkar with 2 images
+2025-03-08 17:52:37,997 - tools.create_database - INFO - Added Sachin Tendulkar to database with 2 images
+2025-03-08 17:52:37,997 - tools.create_database - INFO - Processing Saina Nehwal's images...
+2025-03-08 17:52:39,197 - src.database.embeddings_db - INFO - Added identity: Saina Nehwal with 3 images
+2025-03-08 17:52:39,197 - tools.create_database - INFO - Added Saina Nehwal to database with 3 images
+2025-03-08 17:52:39,197 - tools.create_database - INFO - Processing Salman Khan's images...
+2025-03-08 17:52:39,830 - src.database.embeddings_db - INFO - Added identity: Salman Khan with 3 images
+2025-03-08 17:52:39,832 - tools.create_database - INFO - Added Salman Khan to database with 3 images
+2025-03-08 17:52:39,833 - tools.create_database - INFO - Processing Sania Mirza's images...
+2025-03-08 17:52:40,497 - src.database.embeddings_db - INFO - Added identity: Sania Mirza with 3 images
+2025-03-08 17:52:40,497 - tools.create_database - INFO - Added Sania Mirza to database with 3 images
+2025-03-08 17:52:40,499 - tools.create_database - INFO - Processing Shah Rukh Khan's images...
+2025-03-08 17:52:41,178 - src.database.embeddings_db - INFO - Added identity: Shah Rukh Khan with 3 images
+2025-03-08 17:52:41,178 - tools.create_database - INFO - Added Shah Rukh Khan to database with 3 images
+2025-03-08 17:52:41,178 - tools.create_database - INFO - Processing shubham's images...
+2025-03-08 17:52:41,837 - src.database.embeddings_db - INFO - Added identity: shubham with 3 images
+2025-03-08 17:52:41,837 - tools.create_database - INFO - Added shubham to database with 3 images
+2025-03-08 17:52:41,837 - tools.create_database - INFO - Processing Sonam Kapoor's images...
+2025-03-08 17:52:42,532 - src.database.embeddings_db - INFO - Added identity: Sonam Kapoor with 3 images
+2025-03-08 17:52:42,532 - tools.create_database - INFO - Added Sonam Kapoor to database with 3 images
+2025-03-08 17:52:42,532 - tools.create_database - INFO - Processing Sourav Ganguly's images...
+2025-03-08 17:52:44,081 - src.database.embeddings_db - INFO - Added identity: Sourav Ganguly with 3 images
+2025-03-08 17:52:44,081 - tools.create_database - INFO - Added Sourav Ganguly to database with 3 images
+2025-03-08 17:52:44,081 - tools.create_database - INFO - Processing Sridevi's images...
+2025-03-08 17:52:44,802 - src.database.embeddings_db - INFO - Added identity: Sridevi with 3 images
+2025-03-08 17:52:44,802 - tools.create_database - INFO - Added Sridevi to database with 3 images
+2025-03-08 17:52:44,803 - tools.create_database - INFO - Processing Sunil Chhetri's images...
+2025-03-08 17:52:45,404 - src.database.embeddings_db - INFO - Added identity: Sunil Chhetri with 3 images
+2025-03-08 17:52:45,404 - tools.create_database - INFO - Added Sunil Chhetri to database with 3 images
+2025-03-08 17:52:45,406 - tools.create_database - INFO - Processing Sushmita Sen's images...
+2025-03-08 17:52:46,072 - src.database.embeddings_db - INFO - Added identity: Sushmita Sen with 3 images
+2025-03-08 17:52:46,072 - tools.create_database - INFO - Added Sushmita Sen to database with 3 images
+2025-03-08 17:52:46,072 - tools.create_database - INFO - Processing Vidya Balan's images...
+2025-03-08 17:52:46,726 - src.database.embeddings_db - INFO - Added identity: Vidya Balan with 3 images
+2025-03-08 17:52:46,726 - tools.create_database - INFO - Added Vidya Balan to database with 3 images
+2025-03-08 17:52:46,729 - tools.create_database - INFO - Processing Vijay's images...
+2025-03-08 17:52:47,430 - src.database.embeddings_db - INFO - Added identity: Vijay with 3 images
+2025-03-08 17:52:47,430 - tools.create_database - INFO - Added Vijay to database with 3 images
+2025-03-08 17:52:47,430 - tools.create_database - INFO - Processing Virat Kohli's images...
+2025-03-08 17:52:48,096 - src.database.embeddings_db - INFO - Added identity: Virat Kohli with 3 images
+2025-03-08 17:52:48,096 - tools.create_database - INFO - Added Virat Kohli to database with 3 images
+2025-03-08 17:52:48,099 - src.database.embeddings_db - INFO - Saved database with 51 identities
+2025-03-08 17:52:48,099 - tools.create_database - INFO - Database created with 51 identities
+2025-03-08 17:52:48,099 - tools.create_database - INFO - Identities: Aamir Khan, Aishwarya Rai, Ajay Devgn, Akshay Kumar, Alia Bhatt, Allu Arjun, Amit Shah, Amitabh Bachchan, Anushka Sharma, Arvind Kejriwal, Ayushmann Khurrana, Deepika Padukone, Dhanush, Hardik Pandya, Hrithik Roshan, Jasprit Bumrah, Kamal Haasan, Kareena Kapoor, Katrina Kaif, Madhuri Dixit, Mary Kom, mayank, MS Dhoni, Narendra Modi, Neeraj Chopra, Prabhas, Priyanka Chopra, PV Sindhu, Rahul Dravid, Rahul Gandhi, Rajinikanth, Rajkummar Rao, Ranbir Kapoor, Rani Mukerji, Ranveer Singh, Rekha, Rohit Sharma, Sachin Tendulkar, Saina Nehwal, Salman Khan, Sania Mirza, Shah Rukh Khan, shubham, Sonam Kapoor, Sourav Ganguly, Sridevi, Sunil Chhetri, Sushmita Sen, Vidya Balan, Vijay, Virat Kohli
+2025-03-08 17:52:48,151 - __main__ - INFO - Database creation completed
+2025-03-08 17:53:31,251 - __main__ - INFO - Testing recognition...
+2025-03-08 17:53:32,558 - src.face.detector - INFO - Initialized face detector with model: buffalo_l
+2025-03-08 17:53:32,558 - src.face.embedder - INFO - Initialized face embedder
+2025-03-08 17:53:32,574 - src.database.embeddings_db - INFO - Loaded database with 51 identities
+2025-03-08 17:53:32,574 - src.access_control.verifier - INFO - Initialized access verifier with standard database
+2025-03-08 17:53:32,887 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.9078
+2025-03-08 17:53:32,891 - tools.test_recognition - INFO - Recognized as shubham with score 0.9078 in 0.299s
+2025-03-08 17:53:32,891 - tools.test_recognition - INFO - Top matches:
+2025-03-08 17:53:32,891 - tools.test_recognition - INFO -   shubham: 0.9078
+2025-03-08 17:53:32,891 - tools.test_recognition - INFO -   Dhanush: 0.1721
+2025-03-08 17:53:32,891 - tools.test_recognition - INFO -   Hardik Pandya: 0.0828
+2025-03-08 17:53:32,891 - tools.test_recognition - INFO -   Vijay: 0.0807
+2025-03-08 17:53:32,891 - tools.test_recognition - INFO -   Rajinikanth: 0.0771
+2025-03-08 17:53:33,124 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.9078
+2025-03-08 17:53:33,145 - __main__ - ERROR - Error in main: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\highgui\src\window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+Traceback (most recent call last):
+  File "main.py", line 142, in <module>
+    main()
+  File "main.py", line 118, in main
+    test_recognition(
+  File "F:\projects\face_recognition_system\tools\test_recognition.py", line 93, in test_recognition
+    cv2.imshow("Recognition Result", result_img)
+cv2.error: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\highgui\src\window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+2025-03-08 17:58:48,908 - __main__ - INFO - Testing recognition...
+2025-03-08 17:58:51,586 - src.face.detector - INFO - Initialized face detector with model: buffalo_l
+2025-03-08 17:58:51,586 - src.face.embedder - INFO - Initialized face embedder
+2025-03-08 17:58:51,588 - src.database.embeddings_db - INFO - Loaded database with 51 identities
+2025-03-08 17:58:51,588 - src.access_control.verifier - INFO - Initialized access verifier with standard database
+2025-03-08 17:58:54,976 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.9078
+2025-03-08 17:58:54,976 - tools.test_recognition - INFO - Recognized as shubham with score 0.9078 in 3.376s
+2025-03-08 17:58:54,976 - tools.test_recognition - INFO - Top matches:
+2025-03-08 17:58:54,976 - tools.test_recognition - INFO -   shubham: 0.9078
+2025-03-08 17:58:54,976 - tools.test_recognition - INFO -   Dhanush: 0.1721
+2025-03-08 17:58:54,976 - tools.test_recognition - INFO -   Hardik Pandya: 0.0828
+2025-03-08 17:58:54,976 - tools.test_recognition - INFO -   Vijay: 0.0807
+2025-03-08 17:58:54,976 - tools.test_recognition - INFO -   Rajinikanth: 0.0771
+2025-03-08 17:58:55,194 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.9078
+2025-03-08 17:59:00,432 - __main__ - INFO - Testing completed
+2025-03-08 18:00:33,438 - __main__ - INFO - Testing recognition...
+2025-03-08 18:00:34,932 - src.face.detector - INFO - Initialized face detector with model: buffalo_l
+2025-03-08 18:00:34,934 - src.face.embedder - INFO - Initialized face embedder
+2025-03-08 18:00:34,934 - src.database.embeddings_db - INFO - Loaded database with 51 identities
+2025-03-08 18:00:34,934 - src.access_control.verifier - INFO - Initialized access verifier with standard database
+2025-03-08 18:00:35,184 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.7719
+2025-03-08 18:00:35,184 - tools.test_recognition - INFO - Recognized as shubham with score 0.7719 in 0.218s
+2025-03-08 18:00:35,184 - tools.test_recognition - INFO - Top matches:
+2025-03-08 18:00:35,186 - tools.test_recognition - INFO -   shubham: 0.7719
+2025-03-08 18:00:35,186 - tools.test_recognition - INFO -   Dhanush: 0.1469
+2025-03-08 18:00:35,186 - tools.test_recognition - INFO -   mayank: 0.1139
+2025-03-08 18:00:35,186 - tools.test_recognition - INFO -   Sonam Kapoor: 0.0980
+2025-03-08 18:00:35,186 - tools.test_recognition - INFO -   Rajinikanth: 0.0771
+2025-03-08 18:00:35,398 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.7719
+2025-03-08 18:00:44,664 - __main__ - INFO - Testing completed
+2025-03-08 18:02:02,227 - __main__ - INFO - Testing recognition...
+2025-03-08 18:02:03,517 - src.face.detector - INFO - Initialized face detector with model: buffalo_l
+2025-03-08 18:02:03,517 - src.face.embedder - INFO - Initialized face embedder
+2025-03-08 18:02:03,517 - src.database.embeddings_db - INFO - Loaded database with 51 identities
+2025-03-08 18:02:03,517 - src.access_control.verifier - INFO - Initialized access verifier with standard database
+2025-03-08 18:02:03,760 - src.access_control.verifier - INFO - Access GRANTED - Person: mayank, Score: 0.6594
+2025-03-08 18:02:03,762 - tools.test_recognition - INFO - Recognized as mayank with score 0.6594 in 0.221s
+2025-03-08 18:02:03,762 - tools.test_recognition - INFO - Top matches:
+2025-03-08 18:02:03,762 - tools.test_recognition - INFO -   mayank: 0.6594
+2025-03-08 18:02:03,762 - tools.test_recognition - INFO -   Allu Arjun: 0.2089
+2025-03-08 18:02:03,762 - tools.test_recognition - INFO -   Jasprit Bumrah: 0.1110
+2025-03-08 18:02:03,762 - tools.test_recognition - INFO -   Sachin Tendulkar: 0.1026
+2025-03-08 18:02:03,762 - tools.test_recognition - INFO -   shubham: 0.0946
+2025-03-08 18:02:03,968 - src.access_control.verifier - INFO - Access GRANTED - Person: mayank, Score: 0.6594
+2025-03-08 18:03:17,265 - __main__ - INFO - Testing completed
+2025-03-08 18:04:07,919 - __main__ - INFO - Testing recognition...
+2025-03-08 18:04:09,019 - src.face.detector - INFO - Initialized face detector with model: buffalo_l
+2025-03-08 18:04:09,019 - src.face.embedder - INFO - Initialized face embedder
+2025-03-08 18:04:09,021 - src.database.embeddings_db - INFO - Loaded database with 51 identities
+2025-03-08 18:04:09,021 - src.access_control.verifier - INFO - Initialized access verifier with standard database
+2025-03-08 18:04:09,266 - src.access_control.verifier - INFO - Access GRANTED - Person: mayank, Score: 0.6594
+2025-03-08 18:04:09,266 - tools.test_recognition - INFO - Recognized as mayank with score 0.6594 in 0.243s
+2025-03-08 18:04:09,268 - tools.test_recognition - INFO - Top matches:
+2025-03-08 18:04:09,268 - tools.test_recognition - INFO -   mayank: 0.6594
+2025-03-08 18:04:09,268 - tools.test_recognition - INFO -   Allu Arjun: 0.2089
+2025-03-08 18:04:09,268 - tools.test_recognition - INFO -   Jasprit Bumrah: 0.1110
+2025-03-08 18:04:09,268 - tools.test_recognition - INFO -   Sachin Tendulkar: 0.1026
+2025-03-08 18:04:09,268 - tools.test_recognition - INFO -   shubham: 0.0946
+2025-03-08 18:04:09,452 - src.access_control.verifier - INFO - Access GRANTED - Person: mayank, Score: 0.6594
+2025-03-08 18:04:17,820 - __main__ - INFO - Testing completed
+2025-03-08 18:04:38,461 - __main__ - INFO - Testing recognition...
+2025-03-08 18:04:39,435 - src.face.detector - INFO - Initialized face detector with model: buffalo_l
+2025-03-08 18:04:39,435 - src.face.embedder - INFO - Initialized face embedder
+2025-03-08 18:04:39,437 - src.database.embeddings_db - INFO - Loaded database with 51 identities
+2025-03-08 18:04:39,437 - src.access_control.verifier - INFO - Initialized access verifier with standard database
+2025-03-08 18:04:39,649 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.7719
+2025-03-08 18:04:39,649 - tools.test_recognition - INFO - Recognized as shubham with score 0.7719 in 0.194s
+2025-03-08 18:04:39,649 - tools.test_recognition - INFO - Top matches:
+2025-03-08 18:04:39,649 - tools.test_recognition - INFO -   shubham: 0.7719
+2025-03-08 18:04:39,649 - tools.test_recognition - INFO -   Dhanush: 0.1469
+2025-03-08 18:04:39,649 - tools.test_recognition - INFO -   mayank: 0.1139
+2025-03-08 18:04:39,649 - tools.test_recognition - INFO -   Sonam Kapoor: 0.0980
+2025-03-08 18:04:39,649 - tools.test_recognition - INFO -   Rajinikanth: 0.0771
+2025-03-08 18:04:39,854 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.7719
+2025-03-08 18:04:52,702 - __main__ - INFO - Testing completed
+2025-03-08 18:06:14,029 - __main__ - INFO - Testing recognition...
+2025-03-08 18:06:15,424 - src.face.detector - INFO - Initialized face detector with model: buffalo_l
+2025-03-08 18:06:15,424 - src.face.embedder - INFO - Initialized face embedder
+2025-03-08 18:06:15,440 - src.database.embeddings_db - INFO - Loaded database with 51 identities
+2025-03-08 18:06:15,440 - src.access_control.verifier - INFO - Initialized access verifier with standard database
+2025-03-08 18:06:15,749 - src.access_control.verifier - INFO - Access DENIED - Person: Unknown, Score: 0.0000
+2025-03-08 18:06:15,751 - tools.test_recognition - INFO - Unknown face with score 0.0000 in 0.223s
+2025-03-08 18:06:15,751 - tools.test_recognition - INFO - Top matches:
+2025-03-08 18:06:15,751 - tools.test_recognition - INFO -   mayank: 0.1868
+2025-03-08 18:06:15,751 - tools.test_recognition - INFO -   Prabhas: 0.1494
+2025-03-08 18:06:15,751 - tools.test_recognition - INFO -   Shah Rukh Khan: 0.1150
+2025-03-08 18:06:15,751 - tools.test_recognition - INFO -   Ayushmann Khurrana: 0.1113
+2025-03-08 18:06:15,751 - tools.test_recognition - INFO -   Madhuri Dixit: 0.1096
+2025-03-08 18:06:15,974 - src.access_control.verifier - INFO - Access DENIED - Person: Unknown, Score: 0.0000
+2025-03-08 18:06:30,530 - __main__ - INFO - Testing completed
+2025-03-08 18:08:01,465 - __main__ - INFO - Testing recognition...
+2025-03-08 18:08:02,648 - src.face.detector - INFO - Initialized face detector with model: buffalo_l
+2025-03-08 18:08:02,648 - src.face.embedder - INFO - Initialized face embedder
+2025-03-08 18:08:02,648 - src.database.embeddings_db - INFO - Loaded database with 51 identities
+2025-03-08 18:08:02,648 - src.access_control.verifier - INFO - Initialized access verifier with standard database
+2025-03-08 18:08:02,937 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.7873
+2025-03-08 18:08:02,937 - tools.test_recognition - INFO - Recognized as shubham with score 0.7873 in 0.213s
+2025-03-08 18:08:02,937 - tools.test_recognition - INFO - Top matches:
+2025-03-08 18:08:02,937 - tools.test_recognition - INFO -   shubham: 0.7873
+2025-03-08 18:08:02,939 - tools.test_recognition - INFO -   Dhanush: 0.1526
+2025-03-08 18:08:02,939 - tools.test_recognition - INFO -   Rajinikanth: 0.1178
+2025-03-08 18:08:02,939 - tools.test_recognition - INFO -   mayank: 0.0961
+2025-03-08 18:08:02,939 - tools.test_recognition - INFO -   Hardik Pandya: 0.0866
+2025-03-08 18:08:03,137 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.7873
+2025-03-08 18:08:19,472 - __main__ - INFO - Testing completed
+2025-03-08 18:10:41,884 - __main__ - INFO - Testing recognition...
+2025-03-08 18:10:43,192 - src.face.detector - INFO - Initialized face detector with model: buffalo_l
+2025-03-08 18:10:43,192 - src.face.embedder - INFO - Initialized face embedder
+2025-03-08 18:10:43,192 - src.database.embeddings_db - INFO - Loaded database with 51 identities
+2025-03-08 18:10:43,192 - src.access_control.verifier - INFO - Initialized access verifier with standard database
+2025-03-08 18:10:43,538 - src.access_control.verifier - INFO - Access GRANTED - Person: mayank, Score: 0.8059
+2025-03-08 18:10:43,538 - tools.test_recognition - INFO - Recognized as mayank with score 0.8059 in 0.208s
+2025-03-08 18:10:43,538 - tools.test_recognition - INFO - Top matches:
+2025-03-08 18:10:43,540 - tools.test_recognition - INFO -   mayank: 0.8059
+2025-03-08 18:10:43,540 - tools.test_recognition - INFO -   Jasprit Bumrah: 0.2081
+2025-03-08 18:10:43,540 - tools.test_recognition - INFO -   Sachin Tendulkar: 0.1313
+2025-03-08 18:10:43,540 - tools.test_recognition - INFO -   Allu Arjun: 0.1152
+2025-03-08 18:10:43,540 - tools.test_recognition - INFO -   shubham: 0.1065
+2025-03-08 18:10:43,764 - src.access_control.verifier - INFO - Access GRANTED - Person: mayank, Score: 0.8059
+2025-03-08 18:10:51,521 - __main__ - INFO - Testing completed
+2025-03-11 02:22:48,230 - __main__ - INFO - Testing recognition...
+2025-03-11 02:22:49,759 - src.face.detector - INFO - Initialized face detector with model: buffalo_l
+2025-03-11 02:22:49,759 - src.face.embedder - INFO - Initialized face embedder
+2025-03-11 02:22:49,759 - src.database.embeddings_db - INFO - Loaded database with 51 identities
+2025-03-11 02:22:49,759 - src.access_control.verifier - INFO - Initialized access verifier with standard database
+2025-03-11 02:22:50,125 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.7873
+2025-03-11 02:22:50,125 - tools.test_recognition - INFO - Recognized as shubham with score 0.7873 in 0.281s
+2025-03-11 02:22:50,127 - tools.test_recognition - INFO - Top matches:
+2025-03-11 02:22:50,127 - tools.test_recognition - INFO -   shubham: 0.7873
+2025-03-11 02:22:50,127 - tools.test_recognition - INFO -   Dhanush: 0.1526
+2025-03-11 02:22:50,127 - tools.test_recognition - INFO -   Rajinikanth: 0.1178
+2025-03-11 02:22:50,127 - tools.test_recognition - INFO -   mayank: 0.0961
+2025-03-11 02:22:50,128 - tools.test_recognition - INFO -   Hardik Pandya: 0.0866
+2025-03-11 02:22:50,311 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.7873
+2025-03-11 02:22:55,714 - __main__ - INFO - Testing completed
+2025-03-11 02:23:39,351 - __main__ - INFO - Testing recognition...
+2025-03-11 02:23:40,267 - src.face.detector - INFO - Initialized face detector with model: buffalo_l
+2025-03-11 02:23:40,267 - src.face.embedder - INFO - Initialized face embedder
+2025-03-11 02:23:40,267 - src.database.embeddings_db - INFO - Loaded database with 51 identities
+2025-03-11 02:23:40,267 - src.access_control.verifier - INFO - Initialized access verifier with standard database
+2025-03-11 02:23:40,482 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.7719
+2025-03-11 02:23:40,482 - tools.test_recognition - INFO - Recognized as shubham with score 0.7719 in 0.179s
+2025-03-11 02:23:40,482 - tools.test_recognition - INFO - Top matches:
+2025-03-11 02:23:40,484 - tools.test_recognition - INFO -   shubham: 0.7719
+2025-03-11 02:23:40,484 - tools.test_recognition - INFO -   Dhanush: 0.1469
+2025-03-11 02:23:40,484 - tools.test_recognition - INFO -   mayank: 0.1139
+2025-03-11 02:23:40,484 - tools.test_recognition - INFO -   Sonam Kapoor: 0.0980
+2025-03-11 02:23:40,484 - tools.test_recognition - INFO -   Rajinikanth: 0.0771
+2025-03-11 02:23:40,642 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.7719
+2025-03-11 02:23:43,075 - __main__ - INFO - Testing completed
+2025-03-11 02:28:27,869 - __main__ - INFO - Testing recognition...
+2025-03-11 02:28:28,874 - src.face.detector - INFO - Initialized face detector with model: buffalo_l
+2025-03-11 02:28:28,874 - src.face.embedder - INFO - Initialized face embedder
+2025-03-11 02:28:28,884 - src.database.embeddings_db - INFO - Loaded database with 52 identities
+2025-03-11 02:28:28,884 - src.access_control.verifier - INFO - Initialized access verifier with standard database
+2025-03-11 02:28:29,198 - src.access_control.verifier - INFO - Access GRANTED - Person: John Smith, Score: 0.9156
+2025-03-11 02:28:29,198 - tools.test_recognition - INFO - Recognized as John Smith with score 0.9156 in 0.208s
+2025-03-11 02:28:29,200 - tools.test_recognition - INFO - Top matches:
+2025-03-11 02:28:29,200 - tools.test_recognition - INFO -   John Smith: 0.9156
+2025-03-11 02:28:29,200 - tools.test_recognition - INFO -   mayank: 0.1868
+2025-03-11 02:28:29,200 - tools.test_recognition - INFO -   Prabhas: 0.1494
+2025-03-11 02:28:29,200 - tools.test_recognition - INFO -   Shah Rukh Khan: 0.1150
+2025-03-11 02:28:29,200 - tools.test_recognition - INFO -   Ayushmann Khurrana: 0.1113
+2025-03-11 02:28:29,425 - src.access_control.verifier - INFO - Access GRANTED - Person: John Smith, Score: 0.9156
+2025-03-11 02:28:35,799 - __main__ - INFO - Testing completed
+2025-03-11 02:29:01,981 - __main__ - INFO - Testing recognition...
+2025-03-11 02:29:02,883 - src.face.detector - INFO - Initialized face detector with model: buffalo_l
+2025-03-11 02:29:02,883 - src.face.embedder - INFO - Initialized face embedder
+2025-03-11 02:29:02,894 - src.database.embeddings_db - INFO - Loaded database with 53 identities
+2025-03-11 02:29:02,894 - src.access_control.verifier - INFO - Initialized access verifier with standard database
+2025-03-11 02:29:03,191 - src.access_control.verifier - INFO - Access GRANTED - Person: John Smith, Score: 0.9156
+2025-03-11 02:29:03,191 - tools.test_recognition - INFO - Recognized as John Smith with score 0.9156 in 0.213s
+2025-03-11 02:29:03,191 - tools.test_recognition - INFO - Top matches:
+2025-03-11 02:29:03,191 - tools.test_recognition - INFO -   John Smith: 0.9156
+2025-03-11 02:29:03,193 - tools.test_recognition - INFO -   vipin: 0.9156
+2025-03-11 02:29:03,193 - tools.test_recognition - INFO -   mayank: 0.1868
+2025-03-11 02:29:03,193 - tools.test_recognition - INFO -   Prabhas: 0.1494
+2025-03-11 02:29:03,193 - tools.test_recognition - INFO -   Shah Rukh Khan: 0.1150
+2025-03-11 02:29:03,393 - src.access_control.verifier - INFO - Access GRANTED - Person: John Smith, Score: 0.9156
+2025-03-11 02:29:06,993 - __main__ - INFO - Testing completed
+2025-03-11 02:29:27,442 - __main__ - INFO - Testing recognition...
+2025-03-11 02:29:28,381 - src.face.detector - INFO - Initialized face detector with model: buffalo_l
+2025-03-11 02:29:28,381 - src.face.embedder - INFO - Initialized face embedder
+2025-03-11 02:29:28,392 - src.database.embeddings_db - INFO - Loaded database with 52 identities
+2025-03-11 02:29:28,392 - src.access_control.verifier - INFO - Initialized access verifier with standard database
+2025-03-11 02:29:28,691 - src.access_control.verifier - INFO - Access GRANTED - Person: vipin, Score: 0.9156
+2025-03-11 02:29:28,692 - tools.test_recognition - INFO - Recognized as vipin with score 0.9156 in 0.207s
+2025-03-11 02:29:28,692 - tools.test_recognition - INFO - Top matches:
+2025-03-11 02:29:28,692 - tools.test_recognition - INFO -   vipin: 0.9156
+2025-03-11 02:29:28,692 - tools.test_recognition - INFO -   mayank: 0.1868
+2025-03-11 02:29:28,693 - tools.test_recognition - INFO -   Prabhas: 0.1494
+2025-03-11 02:29:28,693 - tools.test_recognition - INFO -   Shah Rukh Khan: 0.1150
+2025-03-11 02:29:28,693 - tools.test_recognition - INFO -   Ayushmann Khurrana: 0.1113
+2025-03-11 02:29:28,872 - src.access_control.verifier - INFO - Access GRANTED - Person: vipin, Score: 0.9156
+2025-03-11 02:29:31,895 - __main__ - INFO - Testing completed
+2025-03-11 02:57:17,548 - __main__ - INFO - Testing recognition...
+2025-03-11 02:57:18,729 - src.face.detector - INFO - Initialized face detector with model: buffalo_l
+2025-03-11 02:57:18,731 - src.face.embedder - INFO - Initialized face embedder
+2025-03-11 02:57:18,731 - src.database.embeddings_db - INFO - Loaded database with 52 identities
+2025-03-11 02:57:18,731 - src.access_control.verifier - INFO - Initialized access verifier with standard database
+2025-03-11 02:57:18,952 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.7719
+2025-03-11 02:57:18,952 - tools.test_recognition - INFO - Recognized as shubham with score 0.7719 in 0.202s
+2025-03-11 02:57:18,952 - tools.test_recognition - INFO - Top matches:
+2025-03-11 02:57:18,952 - tools.test_recognition - INFO -   shubham: 0.7719
+2025-03-11 02:57:18,952 - tools.test_recognition - INFO -   Dhanush: 0.1469
+2025-03-11 02:57:18,954 - tools.test_recognition - INFO -   mayank: 0.1139
+2025-03-11 02:57:18,954 - tools.test_recognition - INFO -   Sonam Kapoor: 0.0980
+2025-03-11 02:57:18,954 - tools.test_recognition - INFO -   Rajinikanth: 0.0771
+2025-03-11 02:57:19,164 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.7719
+2025-03-11 03:12:32,626 - __main__ - INFO - Testing completed
+2025-03-24 15:54:53,297 - __main__ - INFO - Testing recognition...
+2025-03-24 15:54:55,832 - src.face.detector - INFO - Initialized face detector with model: buffalo_l
+2025-03-24 15:54:55,832 - src.face.embedder - INFO - Initialized face embedder
+2025-03-24 15:54:55,841 - src.database.embeddings_db - INFO - Loaded database with 52 identities
+2025-03-24 15:54:55,841 - src.access_control.verifier - INFO - Initialized access verifier with standard database
+2025-03-24 15:54:57,550 - src.access_control.verifier - INFO - Access GRANTED - Person: mayank, Score: 0.6594
+2025-03-24 15:54:57,550 - tools.test_recognition - INFO - Recognized as mayank with score 0.6594 in 1.094s
+2025-03-24 15:54:57,550 - tools.test_recognition - INFO - Top matches:
+2025-03-24 15:54:57,550 - tools.test_recognition - INFO -   mayank: 0.6594
+2025-03-24 15:54:57,550 - tools.test_recognition - INFO -   Allu Arjun: 0.2089
+2025-03-24 15:54:57,550 - tools.test_recognition - INFO -   Jasprit Bumrah: 0.1110
+2025-03-24 15:54:57,550 - tools.test_recognition - INFO -   vipin: 0.1047
+2025-03-24 15:54:57,550 - tools.test_recognition - INFO -   Sachin Tendulkar: 0.1026
+2025-03-24 15:54:57,747 - src.access_control.verifier - INFO - Access GRANTED - Person: mayank, Score: 0.6594
+2025-03-24 15:59:58,648 - __main__ - INFO - Testing recognition...
+2025-03-24 15:59:59,507 - src.face.detector - INFO - Initialized face detector with model: buffalo_l
+2025-03-24 15:59:59,508 - src.face.embedder - INFO - Initialized face embedder
+2025-03-24 15:59:59,509 - src.database.embeddings_db - INFO - Loaded database with 52 identities
+2025-03-24 15:59:59,509 - src.access_control.verifier - INFO - Initialized access verifier with standard database
+2025-03-24 15:59:59,732 - src.access_control.verifier - INFO - Access GRANTED - Person: vipin, Score: 0.9067
+2025-03-24 15:59:59,732 - tools.test_recognition - INFO - Recognized as vipin with score 0.9067 in 0.175s
+2025-03-24 15:59:59,732 - tools.test_recognition - INFO - Top matches:
+2025-03-24 15:59:59,732 - tools.test_recognition - INFO -   vipin: 0.9067
+2025-03-24 15:59:59,732 - tools.test_recognition - INFO -   mayank: 0.1468
+2025-03-24 15:59:59,732 - tools.test_recognition - INFO -   Kamal Haasan: 0.1221
+2025-03-24 15:59:59,732 - tools.test_recognition - INFO -   Madhuri Dixit: 0.1200
+2025-03-24 15:59:59,732 - tools.test_recognition - INFO -   Shah Rukh Khan: 0.1184
+2025-03-24 15:59:59,952 - src.access_control.verifier - INFO - Access GRANTED - Person: vipin, Score: 0.9067
+2025-03-24 16:00:57,020 - __main__ - INFO - Testing recognition...
+2025-03-24 16:00:57,828 - src.face.detector - INFO - Initialized face detector with model: buffalo_l
+2025-03-24 16:00:57,828 - src.face.embedder - INFO - Initialized face embedder
+2025-03-24 16:00:57,828 - src.database.embeddings_db - INFO - Loaded database with 52 identities
+2025-03-24 16:00:57,828 - src.access_control.verifier - INFO - Initialized access verifier with standard database
+2025-03-24 16:00:58,050 - src.access_control.verifier - INFO - Access DENIED - Person: Unknown, Score: 0.0000
+2025-03-24 16:00:58,050 - tools.test_recognition - INFO - Unknown face with score 0.0000 in 0.204s
+2025-03-24 16:00:58,050 - tools.test_recognition - INFO - Top matches:
+2025-03-24 16:00:58,052 - tools.test_recognition - INFO -   Jasprit Bumrah: 0.2802
+2025-03-24 16:00:58,052 - tools.test_recognition - INFO -   Rohit Sharma: 0.1349
+2025-03-24 16:00:58,052 - tools.test_recognition - INFO -   Rahul Gandhi: 0.1340
+2025-03-24 16:00:58,052 - tools.test_recognition - INFO -   shubham: 0.1278
+2025-03-24 16:00:58,052 - tools.test_recognition - INFO -   Arvind Kejriwal: 0.1063
+2025-03-24 16:00:58,252 - src.access_control.verifier - INFO - Access DENIED - Person: Unknown, Score: 0.0000
+2025-03-24 16:05:21,912 - __main__ - INFO - Testing completed
+2025-04-02 03:42:25,930 - __main__ - INFO - Testing recognition...
+2025-04-02 03:42:27,851 - src.face.detector - INFO - Initialized face detector with model: buffalo_l
+2025-04-02 03:42:27,851 - src.face.embedder - INFO - Initialized face embedder
+2025-04-02 03:42:27,866 - src.database.embeddings_db - INFO - Loaded database with 52 identities
+2025-04-02 03:42:27,866 - src.access_control.verifier - INFO - Initialized access verifier with standard database
+2025-04-02 03:42:29,582 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.7873
+2025-04-02 03:42:29,582 - tools.test_recognition - INFO - Recognized as shubham with score 0.7873 in 1.614s
+2025-04-02 03:42:29,582 - tools.test_recognition - INFO - Top matches:
+2025-04-02 03:42:29,582 - tools.test_recognition - INFO -   shubham: 0.7873
+2025-04-02 03:42:29,582 - tools.test_recognition - INFO -   Dhanush: 0.1526
+2025-04-02 03:42:29,582 - tools.test_recognition - INFO -   Rajinikanth: 0.1178
+2025-04-02 03:42:29,582 - tools.test_recognition - INFO -   mayank: 0.0961
+2025-04-02 03:42:29,582 - tools.test_recognition - INFO -   Hardik Pandya: 0.0866
+2025-04-02 03:42:29,802 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.7873
+2025-04-02 03:42:39,186 - __main__ - INFO - Testing completed
+2025-05-16 20:17:07,265 - __main__ - INFO - Testing recognition...
+2025-05-16 20:17:08,933 - src.face.detector - INFO - Initialized face detector with model: buffalo_l
+2025-05-16 20:17:08,933 - src.face.embedder - INFO - Initialized face embedder
+2025-05-16 20:17:08,959 - src.database.embeddings_db - INFO - Loaded database with 52 identities
+2025-05-16 20:17:08,961 - src.access_control.verifier - INFO - Initialized access verifier with standard database
+2025-05-16 20:17:09,293 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.7930
+2025-05-16 20:17:09,293 - tools.test_recognition - INFO - Recognized as shubham with score 0.7930 in 0.204s
+2025-05-16 20:17:09,293 - tools.test_recognition - INFO - Top matches:
+2025-05-16 20:17:09,293 - tools.test_recognition - INFO -   shubham: 0.7930
+2025-05-16 20:17:09,293 - tools.test_recognition - INFO -   Dhanush: 0.2085
+2025-05-16 20:17:09,295 - tools.test_recognition - INFO -   Rajinikanth: 0.1246
+2025-05-16 20:17:09,295 - tools.test_recognition - INFO -   Vijay: 0.1160
+2025-05-16 20:17:09,295 - tools.test_recognition - INFO -   Sonam Kapoor: 0.1124
+2025-05-16 20:17:09,506 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.7930
+2025-05-16 20:17:19,672 - __main__ - INFO - Testing completed
+2025-05-16 20:18:01,582 - __main__ - INFO - Testing recognition...
+2025-05-16 20:18:02,433 - src.face.detector - INFO - Initialized face detector with model: buffalo_l
+2025-05-16 20:18:02,433 - src.face.embedder - INFO - Initialized face embedder
+2025-05-16 20:18:02,433 - src.database.embeddings_db - INFO - Loaded database with 52 identities
+2025-05-16 20:18:02,433 - src.access_control.verifier - INFO - Initialized access verifier with standard database
+2025-05-16 20:18:02,701 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.7930
+2025-05-16 20:18:02,701 - tools.test_recognition - INFO - Recognized as shubham with score 0.7930 in 0.178s
+2025-05-16 20:18:02,703 - tools.test_recognition - INFO - Top matches:
+2025-05-16 20:18:02,703 - tools.test_recognition - INFO -   shubham: 0.7930
+2025-05-16 20:18:02,703 - tools.test_recognition - INFO -   Dhanush: 0.2085
+2025-05-16 20:18:02,703 - tools.test_recognition - INFO -   Rajinikanth: 0.1246
+2025-05-16 20:18:02,703 - tools.test_recognition - INFO -   Vijay: 0.1160
+2025-05-16 20:18:02,705 - tools.test_recognition - INFO -   Sonam Kapoor: 0.1124
+2025-05-16 20:18:02,925 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.7930
+2025-05-16 20:18:09,547 - __main__ - INFO - Testing completed
+2025-05-16 20:18:35,612 - __main__ - INFO - Testing recognition...
+2025-05-16 20:18:36,464 - src.face.detector - INFO - Initialized face detector with model: buffalo_l
+2025-05-16 20:18:36,464 - src.face.embedder - INFO - Initialized face embedder
+2025-05-16 20:18:36,464 - src.database.embeddings_db - INFO - Loaded database with 52 identities
+2025-05-16 20:18:36,464 - src.access_control.verifier - INFO - Initialized access verifier with standard database
+2025-05-16 20:18:36,689 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.6221
+2025-05-16 20:18:36,689 - tools.test_recognition - INFO - Recognized as shubham with score 0.6221 in 0.186s
+2025-05-16 20:18:36,689 - tools.test_recognition - INFO - Top matches:
+2025-05-16 20:18:36,691 - tools.test_recognition - INFO -   shubham: 0.6221
+2025-05-16 20:18:36,691 - tools.test_recognition - INFO -   Rohit Sharma: 0.1289
+2025-05-16 20:18:36,692 - tools.test_recognition - INFO -   Dhanush: 0.1144
+2025-05-16 20:18:36,692 - tools.test_recognition - INFO -   Sonam Kapoor: 0.1023
+2025-05-16 20:18:36,692 - tools.test_recognition - INFO -   Vijay: 0.0936
+2025-05-16 20:18:36,896 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.6221
+2025-05-16 20:18:40,288 - __main__ - INFO - Testing completed
+2025-05-16 20:19:16,213 - __main__ - INFO - Testing recognition...
+2025-05-16 20:19:17,193 - src.face.detector - INFO - Initialized face detector with model: buffalo_l
+2025-05-16 20:19:17,193 - src.face.embedder - INFO - Initialized face embedder
+2025-05-16 20:19:17,193 - src.database.embeddings_db - INFO - Loaded database with 52 identities
+2025-05-16 20:19:17,193 - src.access_control.verifier - INFO - Initialized access verifier with standard database
+2025-05-16 20:19:17,719 - src.access_control.verifier - INFO - Access DENIED - Person: Unknown, Score: 0.0000
+2025-05-16 20:19:17,719 - tools.test_recognition - INFO - Unknown face with score 0.0000 in 0.423s
+2025-05-16 20:19:17,719 - tools.test_recognition - INFO - Top matches:
+2025-05-16 20:19:17,719 - tools.test_recognition - INFO -   Jasprit Bumrah: 0.1652
+2025-05-16 20:19:17,719 - tools.test_recognition - INFO -   Ranveer Singh: 0.1417
+2025-05-16 20:19:17,719 - tools.test_recognition - INFO -   Saina Nehwal: 0.1374
+2025-05-16 20:19:17,719 - tools.test_recognition - INFO -   shubham: 0.1238
+2025-05-16 20:19:17,719 - tools.test_recognition - INFO -   Rajkummar Rao: 0.1129
+2025-05-16 20:19:18,127 - src.access_control.verifier - INFO - Access DENIED - Person: Unknown, Score: 0.0000
+2025-05-16 20:19:23,770 - __main__ - INFO - Testing completed
+2025-05-16 20:19:44,904 - __main__ - INFO - Testing recognition...
+2025-05-16 20:19:45,765 - src.face.detector - INFO - Initialized face detector with model: buffalo_l
+2025-05-16 20:19:45,765 - src.face.embedder - INFO - Initialized face embedder
+2025-05-16 20:19:45,765 - src.database.embeddings_db - INFO - Loaded database with 52 identities
+2025-05-16 20:19:45,765 - src.access_control.verifier - INFO - Initialized access verifier with standard database
+2025-05-16 20:19:45,996 - src.access_control.verifier - INFO - Access DENIED - Person: Unknown, Score: 0.0000
+2025-05-16 20:19:45,996 - tools.test_recognition - INFO - Unknown face with score 0.0000 in 0.171s
+2025-05-16 20:19:45,996 - tools.test_recognition - INFO - Top matches:
+2025-05-16 20:19:45,996 - tools.test_recognition - INFO -   vipin: 0.1654
+2025-05-16 20:19:45,996 - tools.test_recognition - INFO -   Saina Nehwal: 0.1569
+2025-05-16 20:19:45,996 - tools.test_recognition - INFO -   Jasprit Bumrah: 0.1232
+2025-05-16 20:19:45,996 - tools.test_recognition - INFO -   mayank: 0.1204
+2025-05-16 20:19:45,996 - tools.test_recognition - INFO -   Rajkummar Rao: 0.1022
+2025-05-16 20:19:46,221 - src.access_control.verifier - INFO - Access DENIED - Person: Unknown, Score: 0.0000
+2025-05-16 20:19:48,770 - __main__ - INFO - Testing completed
+2025-05-16 20:20:16,954 - __main__ - INFO - Testing recognition...
+2025-05-16 20:20:17,806 - src.face.detector - INFO - Initialized face detector with model: buffalo_l
+2025-05-16 20:20:17,806 - src.face.embedder - INFO - Initialized face embedder
+2025-05-16 20:20:17,806 - src.database.embeddings_db - INFO - Loaded database with 52 identities
+2025-05-16 20:20:17,806 - src.access_control.verifier - INFO - Initialized access verifier with standard database
+2025-05-16 20:20:18,111 - src.access_control.verifier - INFO - Access DENIED - Person: Unknown, Score: 0.0000
+2025-05-16 20:20:18,127 - tools.test_recognition - INFO - Unknown face with score 0.0000 in 0.197s
+2025-05-16 20:20:18,127 - tools.test_recognition - INFO - Top matches:
+2025-05-16 20:20:18,127 - tools.test_recognition - INFO -   shubham: 0.2742
+2025-05-16 20:20:18,127 - tools.test_recognition - INFO -   Priyanka Chopra: 0.1967
+2025-05-16 20:20:18,127 - tools.test_recognition - INFO -   Dhanush: 0.1838
+2025-05-16 20:20:18,127 - tools.test_recognition - INFO -   mayank: 0.1488
+2025-05-16 20:20:18,127 - tools.test_recognition - INFO -   Jasprit Bumrah: 0.1378
+2025-05-16 20:20:18,327 - src.access_control.verifier - INFO - Access DENIED - Person: Unknown, Score: 0.0000
+2025-05-16 20:20:22,458 - __main__ - INFO - Testing completed
+2025-05-16 20:20:55,058 - __main__ - INFO - Testing recognition...
+2025-05-16 20:20:55,910 - src.face.detector - INFO - Initialized face detector with model: buffalo_l
+2025-05-16 20:20:55,910 - src.face.embedder - INFO - Initialized face embedder
+2025-05-16 20:20:55,910 - src.database.embeddings_db - INFO - Loaded database with 52 identities
+2025-05-16 20:20:55,910 - src.access_control.verifier - INFO - Initialized access verifier with standard database
+2025-05-16 20:20:56,120 - src.access_control.verifier - INFO - Access GRANTED - Person: vipin, Score: 0.9318
+2025-05-16 20:20:56,120 - tools.test_recognition - INFO - Recognized as vipin with score 0.9318 in 0.177s
+2025-05-16 20:20:56,120 - tools.test_recognition - INFO - Top matches:
+2025-05-16 20:20:56,120 - tools.test_recognition - INFO -   vipin: 0.9318
+2025-05-16 20:20:56,120 - tools.test_recognition - INFO -   Prabhas: 0.1284
+2025-05-16 20:20:56,120 - tools.test_recognition - INFO -   mayank: 0.1213
+2025-05-16 20:20:56,120 - tools.test_recognition - INFO -   Ayushmann Khurrana: 0.1211
+2025-05-16 20:20:56,120 - tools.test_recognition - INFO -   Shah Rukh Khan: 0.0992
+2025-05-16 20:20:56,319 - src.access_control.verifier - INFO - Access GRANTED - Person: vipin, Score: 0.9318
+2025-05-16 20:20:58,596 - __main__ - INFO - Testing completed
+2025-05-16 20:21:21,039 - __main__ - INFO - Testing recognition...
+2025-05-16 20:21:21,896 - src.face.detector - INFO - Initialized face detector with model: buffalo_l
+2025-05-16 20:21:21,896 - src.face.embedder - INFO - Initialized face embedder
+2025-05-16 20:21:21,896 - src.database.embeddings_db - INFO - Loaded database with 52 identities
+2025-05-16 20:21:21,896 - src.access_control.verifier - INFO - Initialized access verifier with standard database
+2025-05-16 20:21:22,103 - src.access_control.verifier - INFO - Access GRANTED - Person: vipin, Score: 0.8483
+2025-05-16 20:21:22,103 - tools.test_recognition - INFO - Recognized as vipin with score 0.8483 in 0.187s
+2025-05-16 20:21:22,103 - tools.test_recognition - INFO - Top matches:
+2025-05-16 20:21:22,105 - tools.test_recognition - INFO -   vipin: 0.8483
+2025-05-16 20:21:22,105 - tools.test_recognition - INFO -   Mary Kom: 0.1329
+2025-05-16 20:21:22,105 - tools.test_recognition - INFO -   Prabhas: 0.1307
+2025-05-16 20:21:22,105 - tools.test_recognition - INFO -   Ayushmann Khurrana: 0.1126
+2025-05-16 20:21:22,105 - tools.test_recognition - INFO -   Kamal Haasan: 0.1051
+2025-05-16 20:21:22,308 - src.access_control.verifier - INFO - Access GRANTED - Person: vipin, Score: 0.8483
+2025-05-16 20:21:24,717 - __main__ - INFO - Testing completed
+2025-05-16 20:21:56,445 - __main__ - INFO - Creating database...
+2025-05-16 20:21:57,308 - src.face.detector - INFO - Initialized face detector with model: buffalo_l
+2025-05-16 20:21:57,308 - src.face.embedder - INFO - Initialized face embedder
+2025-05-16 20:21:57,308 - src.database.embeddings_db - INFO - Loaded database with 52 identities
+2025-05-16 20:21:57,308 - tools.create_database - INFO - Creating database from celeb_images
+2025-05-16 20:21:57,308 - tools.create_database - INFO - Using standard database
+2025-05-16 20:21:57,308 - tools.create_database - INFO - Found 54 person folders
+2025-05-16 20:21:57,308 - tools.create_database - INFO - Processing Aamir Khan's images...
+2025-05-16 20:21:57,966 - src.database.embeddings_db - INFO - Added identity: Aamir Khan with 3 images
+2025-05-16 20:21:57,966 - tools.create_database - INFO - Added Aamir Khan to database with 3 images
+2025-05-16 20:21:57,966 - tools.create_database - INFO - Processing Aishwarya Rai's images...
+2025-05-16 20:21:58,600 - src.database.embeddings_db - INFO - Added identity: Aishwarya Rai with 3 images
+2025-05-16 20:21:58,600 - tools.create_database - INFO - Added Aishwarya Rai to database with 3 images
+2025-05-16 20:21:58,600 - tools.create_database - INFO - Processing Ajay Devgn's images...
+2025-05-16 20:21:59,347 - src.database.embeddings_db - INFO - Added identity: Ajay Devgn with 3 images
+2025-05-16 20:21:59,347 - tools.create_database - INFO - Added Ajay Devgn to database with 3 images
+2025-05-16 20:21:59,347 - tools.create_database - INFO - Processing Akshay Kumar's images...
+2025-05-16 20:21:59,986 - src.database.embeddings_db - INFO - Added identity: Akshay Kumar with 3 images
+2025-05-16 20:21:59,986 - tools.create_database - INFO - Added Akshay Kumar to database with 3 images
+2025-05-16 20:21:59,986 - tools.create_database - INFO - Processing Alia Bhatt's images...
+2025-05-16 20:22:00,804 - src.database.embeddings_db - INFO - Added identity: Alia Bhatt with 3 images
+2025-05-16 20:22:00,804 - tools.create_database - INFO - Added Alia Bhatt to database with 3 images
+2025-05-16 20:22:00,804 - tools.create_database - INFO - Processing Allu Arjun's images...
+2025-05-16 20:22:01,538 - src.database.embeddings_db - INFO - Added identity: Allu Arjun with 3 images
+2025-05-16 20:22:01,538 - tools.create_database - INFO - Added Allu Arjun to database with 3 images
+2025-05-16 20:22:01,540 - tools.create_database - INFO - Processing Amit Shah's images...
+2025-05-16 20:22:02,291 - src.database.embeddings_db - INFO - Added identity: Amit Shah with 3 images
+2025-05-16 20:22:02,291 - tools.create_database - INFO - Added Amit Shah to database with 3 images
+2025-05-16 20:22:02,291 - tools.create_database - INFO - Processing Amitabh Bachchan's images...
+2025-05-16 20:22:02,911 - src.database.embeddings_db - INFO - Added identity: Amitabh Bachchan with 3 images
+2025-05-16 20:22:02,911 - tools.create_database - INFO - Added Amitabh Bachchan to database with 3 images
+2025-05-16 20:22:02,911 - tools.create_database - INFO - Processing Anushka Sharma's images...
+2025-05-16 20:22:03,900 - src.database.embeddings_db - INFO - Added identity: Anushka Sharma with 3 images
+2025-05-16 20:22:03,900 - tools.create_database - INFO - Added Anushka Sharma to database with 3 images
+2025-05-16 20:22:03,900 - tools.create_database - INFO - Processing Arvind Kejriwal's images...
+2025-05-16 20:22:04,553 - src.database.embeddings_db - INFO - Added identity: Arvind Kejriwal with 3 images
+2025-05-16 20:22:04,553 - tools.create_database - INFO - Added Arvind Kejriwal to database with 3 images
+2025-05-16 20:22:04,553 - tools.create_database - INFO - Processing Ayushmann Khurrana's images...
+2025-05-16 20:22:05,165 - src.database.embeddings_db - INFO - Added identity: Ayushmann Khurrana with 3 images
+2025-05-16 20:22:05,165 - tools.create_database - INFO - Added Ayushmann Khurrana to database with 3 images
+2025-05-16 20:22:05,168 - tools.create_database - INFO - Processing Deepika Padukone's images...
+2025-05-16 20:22:06,130 - src.database.embeddings_db - INFO - Added identity: Deepika Padukone with 3 images
+2025-05-16 20:22:06,130 - tools.create_database - INFO - Added Deepika Padukone to database with 3 images
+2025-05-16 20:22:06,130 - tools.create_database - INFO - Processing Dhanush's images...
+2025-05-16 20:22:06,834 - src.database.embeddings_db - INFO - Added identity: Dhanush with 3 images
+2025-05-16 20:22:06,834 - tools.create_database - INFO - Added Dhanush to database with 3 images
+2025-05-16 20:22:06,834 - tools.create_database - INFO - Processing Hardik Pandya's images...
+2025-05-16 20:22:07,243 - src.database.embeddings_db - INFO - Added identity: Hardik Pandya with 2 images
+2025-05-16 20:22:07,243 - tools.create_database - INFO - Added Hardik Pandya to database with 2 images
+2025-05-16 20:22:07,243 - tools.create_database - INFO - Processing Hrithik Roshan's images...
+2025-05-16 20:22:07,851 - src.database.embeddings_db - INFO - Added identity: Hrithik Roshan with 3 images
+2025-05-16 20:22:07,851 - tools.create_database - INFO - Added Hrithik Roshan to database with 3 images
+2025-05-16 20:22:07,851 - tools.create_database - INFO - Processing Jasprit Bumrah's images...
+2025-05-16 20:22:08,662 - src.database.embeddings_db - INFO - Added identity: Jasprit Bumrah with 3 images
+2025-05-16 20:22:08,662 - tools.create_database - INFO - Added Jasprit Bumrah to database with 3 images
+2025-05-16 20:22:08,662 - tools.create_database - INFO - Processing Kamal Haasan's images...
+2025-05-16 20:22:09,270 - src.database.embeddings_db - INFO - Added identity: Kamal Haasan with 3 images
+2025-05-16 20:22:09,270 - tools.create_database - INFO - Added Kamal Haasan to database with 3 images
+2025-05-16 20:22:09,270 - tools.create_database - INFO - Processing Kareena Kapoor's images...
+2025-05-16 20:22:09,929 - src.database.embeddings_db - INFO - Added identity: Kareena Kapoor with 3 images
+2025-05-16 20:22:09,931 - tools.create_database - INFO - Added Kareena Kapoor to database with 3 images
+2025-05-16 20:22:09,931 - tools.create_database - INFO - Processing Katrina Kaif's images...
+2025-05-16 20:22:10,565 - src.database.embeddings_db - INFO - Added identity: Katrina Kaif with 3 images
+2025-05-16 20:22:10,565 - tools.create_database - INFO - Added Katrina Kaif to database with 3 images
+2025-05-16 20:22:10,565 - tools.create_database - INFO - Processing Madhuri Dixit's images...
+2025-05-16 20:22:11,188 - src.database.embeddings_db - INFO - Added identity: Madhuri Dixit with 3 images
+2025-05-16 20:22:11,188 - tools.create_database - INFO - Added Madhuri Dixit to database with 3 images
+2025-05-16 20:22:11,188 - tools.create_database - INFO - Processing Mary Kom's images...
+2025-05-16 20:22:11,633 - src.database.embeddings_db - INFO - Added identity: Mary Kom with 2 images
+2025-05-16 20:22:11,633 - tools.create_database - INFO - Added Mary Kom to database with 2 images
+2025-05-16 20:22:11,633 - tools.create_database - INFO - Processing mayank's images...
+2025-05-16 20:22:12,405 - src.database.embeddings_db - INFO - Added identity: mayank with 3 images
+2025-05-16 20:22:12,405 - tools.create_database - INFO - Added mayank to database with 3 images
+2025-05-16 20:22:12,405 - tools.create_database - INFO - Processing MS Dhoni's images...
+2025-05-16 20:22:13,084 - src.database.embeddings_db - INFO - Added identity: MS Dhoni with 3 images
+2025-05-16 20:22:13,084 - tools.create_database - INFO - Added MS Dhoni to database with 3 images
+2025-05-16 20:22:13,084 - tools.create_database - INFO - Processing Narendra Modi's images...
+2025-05-16 20:22:13,840 - src.database.embeddings_db - INFO - Added identity: Narendra Modi with 3 images
+2025-05-16 20:22:13,840 - tools.create_database - INFO - Added Narendra Modi to database with 3 images
+2025-05-16 20:22:13,840 - tools.create_database - INFO - Processing Neeraj Chopra's images...
+2025-05-16 20:22:14,492 - src.database.embeddings_db - INFO - Added identity: Neeraj Chopra with 3 images
+2025-05-16 20:22:14,492 - tools.create_database - INFO - Added Neeraj Chopra to database with 3 images
+2025-05-16 20:22:14,492 - tools.create_database - INFO - Processing Prabhas's images...
+2025-05-16 20:22:15,095 - src.database.embeddings_db - INFO - Added identity: Prabhas with 3 images
+2025-05-16 20:22:15,095 - tools.create_database - INFO - Added Prabhas to database with 3 images
+2025-05-16 20:22:15,095 - tools.create_database - INFO - Processing pratham's images...
+2025-05-16 20:22:16,103 - src.database.embeddings_db - INFO - Added identity: pratham with 3 images
+2025-05-16 20:22:16,103 - tools.create_database - INFO - Added pratham to database with 3 images
+2025-05-16 20:22:16,103 - tools.create_database - INFO - Processing Priyanka Chopra's images...
+2025-05-16 20:22:16,845 - src.database.embeddings_db - INFO - Added identity: Priyanka Chopra with 3 images
+2025-05-16 20:22:16,845 - tools.create_database - INFO - Added Priyanka Chopra to database with 3 images
+2025-05-16 20:22:16,845 - tools.create_database - INFO - Processing PV Sindhu's images...
+2025-05-16 20:22:18,654 - src.database.embeddings_db - INFO - Added identity: PV Sindhu with 3 images
+2025-05-16 20:22:18,654 - tools.create_database - INFO - Added PV Sindhu to database with 3 images
+2025-05-16 20:22:18,654 - tools.create_database - INFO - Processing Rahul Dravid's images...
+2025-05-16 20:22:19,319 - src.database.embeddings_db - INFO - Added identity: Rahul Dravid with 3 images
+2025-05-16 20:22:19,319 - tools.create_database - INFO - Added Rahul Dravid to database with 3 images
+2025-05-16 20:22:19,319 - tools.create_database - INFO - Processing Rahul Gandhi's images...
+2025-05-16 20:22:19,969 - src.database.embeddings_db - INFO - Added identity: Rahul Gandhi with 3 images
+2025-05-16 20:22:19,969 - tools.create_database - INFO - Added Rahul Gandhi to database with 3 images
+2025-05-16 20:22:19,969 - tools.create_database - INFO - Processing Rajinikanth's images...
+2025-05-16 20:22:21,857 - src.database.embeddings_db - INFO - Added identity: Rajinikanth with 3 images
+2025-05-16 20:22:21,857 - tools.create_database - INFO - Added Rajinikanth to database with 3 images
+2025-05-16 20:22:21,857 - tools.create_database - INFO - Processing Rajkummar Rao's images...
+2025-05-16 20:22:22,608 - src.database.embeddings_db - INFO - Added identity: Rajkummar Rao with 3 images
+2025-05-16 20:22:22,608 - tools.create_database - INFO - Added Rajkummar Rao to database with 3 images
+2025-05-16 20:22:22,608 - tools.create_database - INFO - Processing Ranbir Kapoor's images...
+2025-05-16 20:22:23,662 - src.database.embeddings_db - INFO - Added identity: Ranbir Kapoor with 3 images
+2025-05-16 20:22:23,664 - tools.create_database - INFO - Added Ranbir Kapoor to database with 3 images
+2025-05-16 20:22:23,664 - tools.create_database - INFO - Processing Rani Mukerji's images...
+2025-05-16 20:22:24,188 - src.database.embeddings_db - INFO - Added identity: Rani Mukerji with 2 images
+2025-05-16 20:22:24,188 - tools.create_database - INFO - Added Rani Mukerji to database with 2 images
+2025-05-16 20:22:24,188 - tools.create_database - INFO - Processing Ranveer Singh's images...
+2025-05-16 20:22:24,598 - src.database.embeddings_db - INFO - Added identity: Ranveer Singh with 2 images
+2025-05-16 20:22:24,598 - tools.create_database - INFO - Added Ranveer Singh to database with 2 images
+2025-05-16 20:22:24,598 - tools.create_database - INFO - Processing Rekha's images...
+2025-05-16 20:22:24,644 - src.utils.image - WARNING - Failed to read image: celeb_images\Rekha\Rekha_1.jpg
+2025-05-16 20:22:25,056 - src.database.embeddings_db - INFO - Added identity: Rekha with 2 images
+2025-05-16 20:22:25,056 - tools.create_database - INFO - Added Rekha to database with 2 images
+2025-05-16 20:22:25,057 - tools.create_database - INFO - Processing Rohit Sharma's images...
+2025-05-16 20:22:25,749 - src.database.embeddings_db - INFO - Added identity: Rohit Sharma with 3 images
+2025-05-16 20:22:25,751 - tools.create_database - INFO - Added Rohit Sharma to database with 3 images
+2025-05-16 20:22:25,751 - tools.create_database - INFO - Processing Sachin Tendulkar's images...
+2025-05-16 20:22:26,043 - src.utils.image - WARNING - Failed to read image: celeb_images\Sachin Tendulkar\Sachin Tendulkar_2.jpg
+2025-05-16 20:22:26,251 - src.database.embeddings_db - INFO - Added identity: Sachin Tendulkar with 2 images
+2025-05-16 20:22:26,251 - tools.create_database - INFO - Added Sachin Tendulkar to database with 2 images
+2025-05-16 20:22:26,251 - tools.create_database - INFO - Processing Saina Nehwal's images...
+2025-05-16 20:22:27,406 - src.database.embeddings_db - INFO - Added identity: Saina Nehwal with 3 images
+2025-05-16 20:22:27,406 - tools.create_database - INFO - Added Saina Nehwal to database with 3 images
+2025-05-16 20:22:27,408 - tools.create_database - INFO - Processing Salman Khan's images...
+2025-05-16 20:22:28,041 - src.database.embeddings_db - INFO - Added identity: Salman Khan with 3 images
+2025-05-16 20:22:28,041 - tools.create_database - INFO - Added Salman Khan to database with 3 images
+2025-05-16 20:22:28,041 - tools.create_database - INFO - Processing Sania Mirza's images...
+2025-05-16 20:22:28,670 - src.database.embeddings_db - INFO - Added identity: Sania Mirza with 3 images
+2025-05-16 20:22:28,670 - tools.create_database - INFO - Added Sania Mirza to database with 3 images
+2025-05-16 20:22:28,670 - tools.create_database - INFO - Processing Shah Rukh Khan's images...
+2025-05-16 20:22:29,322 - src.database.embeddings_db - INFO - Added identity: Shah Rukh Khan with 3 images
+2025-05-16 20:22:29,322 - tools.create_database - INFO - Added Shah Rukh Khan to database with 3 images
+2025-05-16 20:22:29,322 - tools.create_database - INFO - Processing shubham's images...
+2025-05-16 20:22:29,975 - src.database.embeddings_db - INFO - Added identity: shubham with 3 images
+2025-05-16 20:22:29,975 - tools.create_database - INFO - Added shubham to database with 3 images
+2025-05-16 20:22:29,975 - tools.create_database - INFO - Processing Sonam Kapoor's images...
+2025-05-16 20:22:30,659 - src.database.embeddings_db - INFO - Added identity: Sonam Kapoor with 3 images
+2025-05-16 20:22:30,659 - tools.create_database - INFO - Added Sonam Kapoor to database with 3 images
+2025-05-16 20:22:30,659 - tools.create_database - INFO - Processing Sourav Ganguly's images...
+2025-05-16 20:22:32,298 - src.database.embeddings_db - INFO - Added identity: Sourav Ganguly with 3 images
+2025-05-16 20:22:32,300 - tools.create_database - INFO - Added Sourav Ganguly to database with 3 images
+2025-05-16 20:22:32,300 - tools.create_database - INFO - Processing Sridevi's images...
+2025-05-16 20:22:32,993 - src.database.embeddings_db - INFO - Added identity: Sridevi with 3 images
+2025-05-16 20:22:32,993 - tools.create_database - INFO - Added Sridevi to database with 3 images
+2025-05-16 20:22:32,993 - tools.create_database - INFO - Processing Sunil Chhetri's images...
+2025-05-16 20:22:33,597 - src.database.embeddings_db - INFO - Added identity: Sunil Chhetri with 3 images
+2025-05-16 20:22:33,597 - tools.create_database - INFO - Added Sunil Chhetri to database with 3 images
+2025-05-16 20:22:33,597 - tools.create_database - INFO - Processing suraj's images...
+2025-05-16 20:22:34,773 - src.database.embeddings_db - INFO - Added identity: suraj with 3 images
+2025-05-16 20:22:34,773 - tools.create_database - INFO - Added suraj to database with 3 images
+2025-05-16 20:22:34,776 - tools.create_database - INFO - Processing Sushmita Sen's images...
+2025-05-16 20:22:35,531 - src.database.embeddings_db - INFO - Added identity: Sushmita Sen with 3 images
+2025-05-16 20:22:35,531 - tools.create_database - INFO - Added Sushmita Sen to database with 3 images
+2025-05-16 20:22:35,531 - tools.create_database - INFO - Processing Vidya Balan's images...
+2025-05-16 20:22:36,232 - src.database.embeddings_db - INFO - Added identity: Vidya Balan with 3 images
+2025-05-16 20:22:36,232 - tools.create_database - INFO - Added Vidya Balan to database with 3 images
+2025-05-16 20:22:36,232 - tools.create_database - INFO - Processing Vijay's images...
+2025-05-16 20:22:36,906 - src.database.embeddings_db - INFO - Added identity: Vijay with 3 images
+2025-05-16 20:22:36,906 - tools.create_database - INFO - Added Vijay to database with 3 images
+2025-05-16 20:22:36,906 - tools.create_database - INFO - Processing vipin's images...
+2025-05-16 20:22:37,904 - src.database.embeddings_db - INFO - Added identity: vipin with 4 images
+2025-05-16 20:22:37,904 - tools.create_database - INFO - Added vipin to database with 4 images
+2025-05-16 20:22:37,904 - tools.create_database - INFO - Processing Virat Kohli's images...
+2025-05-16 20:22:38,618 - src.database.embeddings_db - INFO - Added identity: Virat Kohli with 3 images
+2025-05-16 20:22:38,618 - tools.create_database - INFO - Added Virat Kohli to database with 3 images
+2025-05-16 20:22:38,620 - src.database.embeddings_db - INFO - Saved database with 54 identities
+2025-05-16 20:22:38,620 - tools.create_database - INFO - Database created with 54 identities
+2025-05-16 20:22:38,620 - tools.create_database - INFO - Identities: Aamir Khan, Aishwarya Rai, Ajay Devgn, Akshay Kumar, Alia Bhatt, Allu Arjun, Amit Shah, Amitabh Bachchan, Anushka Sharma, Arvind Kejriwal, Ayushmann Khurrana, Deepika Padukone, Dhanush, Hardik Pandya, Hrithik Roshan, Jasprit Bumrah, Kamal Haasan, Kareena Kapoor, Katrina Kaif, Madhuri Dixit, Mary Kom, mayank, MS Dhoni, Narendra Modi, Neeraj Chopra, Prabhas, Priyanka Chopra, PV Sindhu, Rahul Dravid, Rahul Gandhi, Rajinikanth, Rajkummar Rao, Ranbir Kapoor, Rani Mukerji, Ranveer Singh, Rekha, Rohit Sharma, Sachin Tendulkar, Saina Nehwal, Salman Khan, Sania Mirza, Shah Rukh Khan, shubham, Sonam Kapoor, Sourav Ganguly, Sridevi, Sunil Chhetri, Sushmita Sen, Vidya Balan, Vijay, Virat Kohli, vipin, pratham, suraj
+2025-05-16 20:22:38,659 - __main__ - INFO - Database creation completed
+2025-05-16 20:22:49,971 - __main__ - INFO - Testing recognition...
+2025-05-16 20:22:50,905 - src.face.detector - INFO - Initialized face detector with model: buffalo_l
+2025-05-16 20:22:50,905 - src.face.embedder - INFO - Initialized face embedder
+2025-05-16 20:22:50,915 - src.database.embeddings_db - INFO - Loaded database with 54 identities
+2025-05-16 20:22:50,915 - src.access_control.verifier - INFO - Initialized access verifier with standard database
+2025-05-16 20:22:51,246 - src.access_control.verifier - INFO - Access GRANTED - Person: suraj, Score: 0.9184
+2025-05-16 20:22:51,246 - tools.test_recognition - INFO - Recognized as suraj with score 0.9184 in 0.224s
+2025-05-16 20:22:51,246 - tools.test_recognition - INFO - Top matches:
+2025-05-16 20:22:51,246 - tools.test_recognition - INFO -   suraj: 0.9184
+2025-05-16 20:22:51,248 - tools.test_recognition - INFO -   shubham: 0.2742
+2025-05-16 20:22:51,248 - tools.test_recognition - INFO -   Priyanka Chopra: 0.1968
+2025-05-16 20:22:51,248 - tools.test_recognition - INFO -   Dhanush: 0.1838
+2025-05-16 20:22:51,248 - tools.test_recognition - INFO -   pratham: 0.1762
+2025-05-16 20:22:51,456 - src.access_control.verifier - INFO - Access GRANTED - Person: suraj, Score: 0.9184
+2025-05-16 20:22:54,428 - __main__ - INFO - Testing completed
+2025-05-16 20:23:09,159 - __main__ - INFO - Testing recognition...
+2025-05-16 20:23:10,003 - src.face.detector - INFO - Initialized face detector with model: buffalo_l
+2025-05-16 20:23:10,003 - src.face.embedder - INFO - Initialized face embedder
+2025-05-16 20:23:10,003 - src.database.embeddings_db - INFO - Loaded database with 54 identities
+2025-05-16 20:23:10,003 - src.access_control.verifier - INFO - Initialized access verifier with standard database
+2025-05-16 20:23:10,519 - src.access_control.verifier - INFO - Access GRANTED - Person: pratham, Score: 0.8928
+2025-05-16 20:23:10,519 - tools.test_recognition - INFO - Recognized as pratham with score 0.8928 in 0.427s
+2025-05-16 20:23:10,519 - tools.test_recognition - INFO - Top matches:
+2025-05-16 20:23:10,519 - tools.test_recognition - INFO -   pratham: 0.8928
+2025-05-16 20:23:10,519 - tools.test_recognition - INFO -   Jasprit Bumrah: 0.1652
+2025-05-16 20:23:10,521 - tools.test_recognition - INFO -   Ranveer Singh: 0.1417
+2025-05-16 20:23:10,521 - tools.test_recognition - INFO -   Saina Nehwal: 0.1374
+2025-05-16 20:23:10,521 - tools.test_recognition - INFO -   suraj: 0.1373
+2025-05-16 20:23:10,916 - src.access_control.verifier - INFO - Access GRANTED - Person: pratham, Score: 0.8928
+2025-05-16 20:23:13,745 - __main__ - INFO - Testing completed
+2025-05-16 20:42:01,670 - __main__ - INFO - Starting live recognition...
+2025-05-16 20:42:03,636 - src.face.detector - INFO - Initialized face detector with model: buffalo_l
+2025-05-16 20:42:03,637 - src.face.embedder - INFO - Initialized face embedder
+2025-05-16 20:42:03,637 - src.database.embeddings_db - INFO - Loaded database with 54 identities
+2025-05-16 20:42:03,637 - src.access_control.verifier - INFO - Initialized access verifier with standard database
+2025-05-16 20:42:04,152 - tools.live_recognition - INFO - Starting live recognition with camera 0
+2025-05-16 20:42:04,153 - tools.live_recognition - INFO - Detection threshold: 0.6
+2025-05-16 20:42:04,153 - tools.live_recognition - INFO - Recognition threshold: 0.5
+2025-05-16 20:42:04,153 - tools.live_recognition - INFO - Using standard database
+2025-05-16 20:42:04,153 - tools.live_recognition - INFO - Press 'q' to quit, 's' to take screenshot
+2025-05-16 20:42:04,629 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.6559
+2025-05-16 20:42:04,938 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.6566
+2025-05-16 20:42:05,165 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.6291
+2025-05-16 20:42:05,383 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.6021
+2025-05-16 20:42:05,595 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.5709
+2025-05-16 20:42:05,824 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.5247
+2025-05-16 20:42:06,061 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.5702
+2025-05-16 20:42:06,278 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.5877
+2025-05-16 20:42:06,496 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.5922
+2025-05-16 20:42:06,708 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.6220
+2025-05-16 20:42:06,920 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.6345
+2025-05-16 20:42:07,127 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.5923
+2025-05-16 20:42:07,326 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.5775
+2025-05-16 20:42:07,535 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.5022
+2025-05-16 20:42:07,725 - src.access_control.verifier - INFO - Access DENIED - Person: Unknown, Score: 0.0000
+2025-05-16 20:42:07,934 - src.access_control.verifier - INFO - Access DENIED - Person: Unknown, Score: 0.0000
+2025-05-16 20:42:08,118 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.5361
+2025-05-16 20:42:08,343 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.5496
+2025-05-16 20:42:08,558 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.5062
+2025-05-16 20:42:08,759 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.5629
+2025-05-16 20:42:08,982 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.5840
+2025-05-16 20:42:09,289 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.5785
+2025-05-16 20:42:09,491 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.5748
+2025-05-16 20:42:09,694 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.5881
+2025-05-16 20:42:09,888 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.5383
+2025-05-16 20:42:10,069 - src.access_control.verifier - INFO - Access DENIED - Person: Unknown, Score: 0.0000
+2025-05-16 20:42:10,269 - src.access_control.verifier - INFO - Access DENIED - Person: Unknown, Score: 0.0000
+2025-05-16 20:42:11,430 - src.access_control.verifier - INFO - Access DENIED - Person: Unknown, Score: 0.0000
+2025-05-16 20:42:11,615 - src.access_control.verifier - INFO - Access DENIED - Person: Unknown, Score: 0.0000
+2025-05-16 20:42:11,806 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.5461
+2025-05-16 20:42:12,020 - src.access_control.verifier - INFO - Access DENIED - Person: Unknown, Score: 0.0000
+2025-05-16 20:42:12,224 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.6353
+2025-05-16 20:42:12,432 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.5670
+2025-05-16 20:42:12,639 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.5870
+2025-05-16 20:42:12,850 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.5875
+2025-05-16 20:42:13,045 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.6590
+2025-05-16 20:42:13,244 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.5584
+2025-05-16 20:42:13,451 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.5331
+2025-05-16 20:42:13,658 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.5893
+2025-05-16 20:42:13,844 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.6159
+2025-05-16 20:42:14,043 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.5905
+2025-05-16 20:42:14,251 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.5819
+2025-05-16 20:42:14,462 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.5708
+2025-05-16 20:42:14,672 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.6107
+2025-05-16 20:42:14,853 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.6073
+2025-05-16 20:42:15,337 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.5729
+2025-05-16 20:42:15,611 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.5996
+2025-05-16 20:42:15,828 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.5929
+2025-05-16 20:42:16,055 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.5893
+2025-05-16 20:42:16,260 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.5922
+2025-05-16 20:42:16,505 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.6154
+2025-05-16 20:42:16,766 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.6032
+2025-05-16 20:42:16,987 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.5223
+2025-05-16 20:42:17,221 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.5907
+2025-05-16 20:42:17,454 - src.access_control.verifier - INFO - Access GRANTED - Person: shubham, Score: 0.5828
+2025-05-16 20:42:17,560 - tools.live_recognition - INFO - Keyboard interrupt detected
+2025-05-16 20:42:17,598 - tools.live_recognition - INFO - Total access attempts: 55
+2025-05-16 20:42:17,598 - tools.live_recognition - INFO - Access granted: 48, denied: 7
+2025-05-16 20:42:17,599 - tools.live_recognition - INFO - Live recognition stopped
+2025-05-16 20:42:17,662 - __main__ - INFO - Live recognition completed
+2025-05-16 21:33:10,385 - __main__ - INFO - Testing recognition...
+2025-05-16 21:33:11,943 - src.face.detector - INFO - Initialized face detector with model: buffalo_l
+2025-05-16 21:33:11,943 - src.face.embedder - INFO - Initialized face embedder
+2025-05-16 21:33:11,944 - src.database.embeddings_db - INFO - Loaded database with 54 identities
+2025-05-16 21:33:11,945 - src.access_control.verifier - INFO - Initialized access verifier with standard database
+2025-05-16 21:33:12,209 - src.access_control.verifier - INFO - Access GRANTED - Person: suraj, Score: 0.8307
+2025-05-16 21:33:12,209 - tools.test_recognition - INFO - Recognized as suraj with score 0.8307 in 0.243s
+2025-05-16 21:33:12,209 - tools.test_recognition - INFO - Top matches:
+2025-05-16 21:33:12,210 - tools.test_recognition - INFO -   suraj: 0.8307
+2025-05-16 21:33:12,210 - tools.test_recognition - INFO -   shubham: 0.2613
+2025-05-16 21:33:12,211 - tools.test_recognition - INFO -   Dhanush: 0.2122
+2025-05-16 21:33:12,211 - tools.test_recognition - INFO -   Priyanka Chopra: 0.1926
+2025-05-16 21:33:12,212 - tools.test_recognition - INFO -   mayank: 0.1828
+2025-05-16 21:33:12,437 - src.access_control.verifier - INFO - Access GRANTED - Person: suraj, Score: 0.8307
+2025-05-16 21:33:20,868 - __main__ - INFO - Testing completed
+2025-05-16 21:33:44,122 - __main__ - INFO - Testing recognition...
+2025-05-16 21:33:45,111 - src.face.detector - INFO - Initialized face detector with model: buffalo_l
+2025-05-16 21:33:45,111 - src.face.embedder - INFO - Initialized face embedder
+2025-05-16 21:33:45,111 - src.database.embeddings_db - INFO - Loaded database with 54 identities
+2025-05-16 21:33:45,112 - src.access_control.verifier - INFO - Initialized access verifier with standard database
+2025-05-16 21:33:45,487 - src.access_control.verifier - INFO - Access GRANTED - Person: suraj, Score: 0.8173
+2025-05-16 21:33:45,487 - tools.test_recognition - INFO - Recognized as suraj with score 0.8173 in 0.344s
+2025-05-16 21:33:45,487 - tools.test_recognition - INFO - Top matches:
+2025-05-16 21:33:45,488 - tools.test_recognition - INFO -   suraj: 0.8173
+2025-05-16 21:33:45,488 - tools.test_recognition - INFO -   shubham: 0.2785
+2025-05-16 21:33:45,488 - tools.test_recognition - INFO -   Priyanka Chopra: 0.2124
+2025-05-16 21:33:45,489 - tools.test_recognition - INFO -   Dhanush: 0.2027
+2025-05-16 21:33:45,489 - tools.test_recognition - INFO -   mayank: 0.2014
+2025-05-16 21:33:45,815 - src.access_control.verifier - INFO - Access GRANTED - Person: suraj, Score: 0.8173
+2025-05-16 21:33:54,773 - __main__ - INFO - Testing completed
+2025-05-16 21:34:15,869 - __main__ - INFO - Testing recognition...
+2025-05-16 21:34:16,736 - src.face.detector - INFO - Initialized face detector with model: buffalo_l
+2025-05-16 21:34:16,737 - src.face.embedder - INFO - Initialized face embedder
+2025-05-16 21:34:16,738 - src.database.embeddings_db - INFO - Loaded database with 54 identities
+2025-05-16 21:34:16,738 - src.access_control.verifier - INFO - Initialized access verifier with standard database
+2025-05-16 21:34:16,961 - src.access_control.verifier - INFO - Access GRANTED - Person: suraj, Score: 0.5891
+2025-05-16 21:34:16,962 - tools.test_recognition - INFO - Recognized as suraj with score 0.5891 in 0.210s
+2025-05-16 21:34:16,963 - tools.test_recognition - INFO - Top matches:
+2025-05-16 21:34:16,963 - tools.test_recognition - INFO -   suraj: 0.5891
+2025-05-16 21:34:16,963 - tools.test_recognition - INFO -   mayank: 0.1756
+2025-05-16 21:34:16,963 - tools.test_recognition - INFO -   Jasprit Bumrah: 0.1633
+2025-05-16 21:34:16,964 - tools.test_recognition - INFO -   shubham: 0.1555
+2025-05-16 21:34:16,964 - tools.test_recognition - INFO -   Dhanush: 0.1385
+2025-05-16 21:34:17,213 - src.access_control.verifier - INFO - Access GRANTED - Person: suraj, Score: 0.5891
+2025-05-16 21:34:23,168 - __main__ - INFO - Testing completed
+2025-05-16 21:34:46,753 - __main__ - INFO - Testing recognition...
+2025-05-16 21:34:47,682 - src.face.detector - INFO - Initialized face detector with model: buffalo_l
+2025-05-16 21:34:47,683 - src.face.embedder - INFO - Initialized face embedder
+2025-05-16 21:34:47,684 - src.database.embeddings_db - INFO - Loaded database with 54 identities
+2025-05-16 21:34:47,684 - src.access_control.verifier - INFO - Initialized access verifier with standard database
+2025-05-16 21:34:47,881 - src.access_control.verifier - INFO - Access GRANTED - Person: suraj, Score: 0.8051
+2025-05-16 21:34:47,881 - tools.test_recognition - INFO - Recognized as suraj with score 0.8051 in 0.194s
+2025-05-16 21:34:47,882 - tools.test_recognition - INFO - Top matches:
+2025-05-16 21:34:47,882 - tools.test_recognition - INFO -   suraj: 0.8051
+2025-05-16 21:34:47,882 - tools.test_recognition - INFO -   shubham: 0.2713
+2025-05-16 21:34:47,883 - tools.test_recognition - INFO -   Priyanka Chopra: 0.2115
+2025-05-16 21:34:47,883 - tools.test_recognition - INFO -   Jasprit Bumrah: 0.1870
+2025-05-16 21:34:47,883 - tools.test_recognition - INFO -   Neeraj Chopra: 0.1833
+2025-05-16 21:34:48,106 - src.access_control.verifier - INFO - Access GRANTED - Person: suraj, Score: 0.8051
+2025-05-16 21:34:52,457 - __main__ - INFO - Testing completed
+2025-05-16 21:35:13,468 - __main__ - INFO - Testing recognition...
+2025-05-16 21:35:14,341 - src.face.detector - INFO - Initialized face detector with model: buffalo_l
+2025-05-16 21:35:14,341 - src.face.embedder - INFO - Initialized face embedder
+2025-05-16 21:35:14,342 - src.database.embeddings_db - INFO - Loaded database with 54 identities
+2025-05-16 21:35:14,342 - src.access_control.verifier - INFO - Initialized access verifier with standard database
+2025-05-16 21:35:14,555 - src.access_control.verifier - INFO - Access GRANTED - Person: vipin, Score: 0.7941
+2025-05-16 21:35:14,556 - tools.test_recognition - INFO - Recognized as vipin with score 0.7941 in 0.198s
+2025-05-16 21:35:14,556 - tools.test_recognition - INFO - Top matches:
+2025-05-16 21:35:14,556 - tools.test_recognition - INFO -   vipin: 0.7941
+2025-05-16 21:35:14,557 - tools.test_recognition - INFO -   mayank: 0.1501
+2025-05-16 21:35:14,557 - tools.test_recognition - INFO -   Ayushmann Khurrana: 0.1005
+2025-05-16 21:35:14,557 - tools.test_recognition - INFO -   pratham: 0.0988
+2025-05-16 21:35:14,557 - tools.test_recognition - INFO -   Prabhas: 0.0977
+2025-05-16 21:35:14,800 - src.access_control.verifier - INFO - Access GRANTED - Person: vipin, Score: 0.7941
+2025-05-16 21:35:39,279 - __main__ - INFO - Testing completed
+2025-08-19 21:00:56,511 - __main__ - INFO - Creating database...
+2025-08-19 21:00:57,928 - src.face.detector - INFO - Initialized face detector with model: buffalo_l
+2025-08-19 21:00:57,928 - src.face.embedder - INFO - Initialized face embedder
+2025-08-19 21:00:57,934 - src.database.embeddings_db - INFO - Loaded database with 54 identities
+2025-08-19 21:00:57,935 - tools.create_database - INFO - Creating database from /run/media/suraj/JARVIS/Codebase/ArcFace-Face-Recognition-Access-Control-System/celeb_images
+2025-08-19 21:00:57,935 - tools.create_database - INFO - Using standard database
+2025-08-19 21:00:57,936 - tools.create_database - INFO - Found 53 person folders
+2025-08-19 21:00:57,940 - tools.create_database - INFO - Processing Alia Bhatt's images...
+2025-08-19 21:01:00,519 - src.database.embeddings_db - INFO - Added identity: Alia Bhatt with 3 images
+2025-08-19 21:01:00,519 - tools.create_database - INFO - Added Alia Bhatt to database with 3 images
+2025-08-19 21:01:00,520 - tools.create_database - INFO - Processing Rajkummar Rao's images...
+2025-08-19 21:01:02,999 - src.database.embeddings_db - INFO - Added identity: Rajkummar Rao with 3 images
+2025-08-19 21:01:02,999 - tools.create_database - INFO - Added Rajkummar Rao to database with 3 images
+2025-08-19 21:01:02,999 - tools.create_database - INFO - Processing Salman Khan's images...
+2025-08-19 21:01:04,887 - src.database.embeddings_db - INFO - Added identity: Salman Khan with 3 images
+2025-08-19 21:01:04,887 - tools.create_database - INFO - Added Salman Khan to database with 3 images
+2025-08-19 21:01:04,887 - tools.create_database - INFO - Processing Anushka Sharma's images...
+2025-08-19 21:01:08,406 - src.database.embeddings_db - INFO - Added identity: Anushka Sharma with 3 images
+2025-08-19 21:01:08,407 - tools.create_database - INFO - Added Anushka Sharma to database with 3 images
+2025-08-19 21:01:08,407 - tools.create_database - INFO - Processing Shah Rukh Khan's images...
+2025-08-19 21:01:10,431 - src.database.embeddings_db - INFO - Added identity: Shah Rukh Khan with 3 images
+2025-08-19 21:01:10,431 - tools.create_database - INFO - Added Shah Rukh Khan to database with 3 images
+2025-08-19 21:01:10,431 - tools.create_database - INFO - Processing Sachin Tendulkar's images...
+2025-08-19 21:01:11,187 - src.utils.image - WARNING - Failed to read image: /run/media/suraj/JARVIS/Codebase/ArcFace-Face-Recognition-Access-Control-System/celeb_images/Sachin Tendulkar/Sachin Tendulkar_2.jpg
+2025-08-19 21:01:11,848 - src.database.embeddings_db - INFO - Added identity: Sachin Tendulkar with 2 images
+2025-08-19 21:01:11,848 - tools.create_database - INFO - Added Sachin Tendulkar to database with 2 images
+2025-08-19 21:01:11,849 - tools.create_database - INFO - Processing Hrithik Roshan's images...
+2025-08-19 21:01:13,806 - src.database.embeddings_db - INFO - Added identity: Hrithik Roshan with 3 images
+2025-08-19 21:01:13,806 - tools.create_database - INFO - Added Hrithik Roshan to database with 3 images
+2025-08-19 21:01:13,806 - tools.create_database - INFO - Processing shubham's images...
+2025-08-19 21:01:16,064 - src.database.embeddings_db - INFO - Added identity: shubham with 3 images
+2025-08-19 21:01:16,064 - tools.create_database - INFO - Added shubham to database with 3 images
+2025-08-19 21:01:16,064 - tools.create_database - INFO - Processing Prabhas's images...
+2025-08-19 21:01:18,109 - src.database.embeddings_db - INFO - Added identity: Prabhas with 3 images
+2025-08-19 21:01:18,109 - tools.create_database - INFO - Added Prabhas to database with 3 images
+2025-08-19 21:01:18,109 - tools.create_database - INFO - Processing Sania Mirza's images...
+2025-08-19 21:01:20,051 - src.database.embeddings_db - INFO - Added identity: Sania Mirza with 3 images
+2025-08-19 21:01:20,051 - tools.create_database - INFO - Added Sania Mirza to database with 3 images
+2025-08-19 21:01:20,051 - tools.create_database - INFO - Processing Ranveer Singh's images...
+2025-08-19 21:01:21,532 - src.database.embeddings_db - INFO - Added identity: Ranveer Singh with 2 images
+2025-08-19 21:01:21,533 - tools.create_database - INFO - Added Ranveer Singh to database with 2 images
+2025-08-19 21:01:21,533 - tools.create_database - INFO - Processing Amit Shah's images...
+2025-08-19 21:01:23,931 - src.database.embeddings_db - INFO - Added identity: Amit Shah with 3 images
+2025-08-19 21:01:23,931 - tools.create_database - INFO - Added Amit Shah to database with 3 images
+2025-08-19 21:01:23,932 - tools.create_database - INFO - Processing Aishwarya Rai's images...
+2025-08-19 21:01:26,127 - src.database.embeddings_db - INFO - Added identity: Aishwarya Rai with 3 images
+2025-08-19 21:01:26,127 - tools.create_database - INFO - Added Aishwarya Rai to database with 3 images
+2025-08-19 21:01:26,127 - tools.create_database - INFO - Processing Neeraj Chopra's images...
+2025-08-19 21:01:28,143 - src.database.embeddings_db - INFO - Added identity: Neeraj Chopra with 3 images
+2025-08-19 21:01:28,143 - tools.create_database - INFO - Added Neeraj Chopra to database with 3 images
+2025-08-19 21:01:28,143 - tools.create_database - INFO - Processing Rohit Sharma's images...
+2025-08-19 21:01:30,210 - src.database.embeddings_db - INFO - Added identity: Rohit Sharma with 3 images
+2025-08-19 21:01:30,210 - tools.create_database - INFO - Added Rohit Sharma to database with 3 images
+2025-08-19 21:01:30,210 - tools.create_database - INFO - Processing Ajay Devgn's images...
+2025-08-19 21:01:33,003 - src.database.embeddings_db - INFO - Added identity: Ajay Devgn with 3 images
+2025-08-19 21:01:33,004 - tools.create_database - INFO - Added Ajay Devgn to database with 3 images
+2025-08-19 21:01:33,004 - tools.create_database - INFO - Processing Rekha's images...
+2025-08-19 21:01:33,010 - src.utils.image - WARNING - Failed to read image: /run/media/suraj/JARVIS/Codebase/ArcFace-Face-Recognition-Access-Control-System/celeb_images/Rekha/Rekha_1.jpg
+2025-08-19 21:01:34,420 - src.database.embeddings_db - INFO - Added identity: Rekha with 2 images
+2025-08-19 21:01:34,420 - tools.create_database - INFO - Added Rekha to database with 2 images
+2025-08-19 21:01:34,420 - tools.create_database - INFO - Processing Kareena Kapoor's images...
+2025-08-19 21:01:36,415 - src.database.embeddings_db - INFO - Added identity: Kareena Kapoor with 3 images
+2025-08-19 21:01:36,415 - tools.create_database - INFO - Added Kareena Kapoor to database with 3 images
+2025-08-19 21:01:36,416 - tools.create_database - INFO - Processing Kamal Haasan's images...
+2025-08-19 21:01:38,391 - src.database.embeddings_db - INFO - Added identity: Kamal Haasan with 3 images
+2025-08-19 21:01:38,391 - tools.create_database - INFO - Added Kamal Haasan to database with 3 images
+2025-08-19 21:01:38,391 - tools.create_database - INFO - Processing Aamir Khan's images...
+2025-08-19 21:01:40,316 - src.database.embeddings_db - INFO - Added identity: Aamir Khan with 3 images
+2025-08-19 21:01:40,316 - tools.create_database - INFO - Added Aamir Khan to database with 3 images
+2025-08-19 21:01:40,317 - tools.create_database - INFO - Processing Virat Kohli's images...
+2025-08-19 21:01:42,366 - src.database.embeddings_db - INFO - Added identity: Virat Kohli with 3 images
+2025-08-19 21:01:42,366 - tools.create_database - INFO - Added Virat Kohli to database with 3 images
+2025-08-19 21:01:42,367 - tools.create_database - INFO - Processing Sourav Ganguly's images...
+2025-08-19 21:01:47,909 - src.database.embeddings_db - INFO - Added identity: Sourav Ganguly with 3 images
+2025-08-19 21:01:47,910 - tools.create_database - INFO - Added Sourav Ganguly to database with 3 images
+2025-08-19 21:01:47,910 - tools.create_database - INFO - Processing Amitabh Bachchan's images...
+2025-08-19 21:01:50,268 - src.database.embeddings_db - INFO - Added identity: Amitabh Bachchan with 3 images
+2025-08-19 21:01:50,268 - tools.create_database - INFO - Added Amitabh Bachchan to database with 3 images
+2025-08-19 21:01:50,268 - tools.create_database - INFO - Processing Akshay Kumar's images...
+2025-08-19 21:01:52,270 - src.database.embeddings_db - INFO - Added identity: Akshay Kumar with 3 images
+2025-08-19 21:01:52,270 - tools.create_database - INFO - Added Akshay Kumar to database with 3 images
+2025-08-19 21:01:52,270 - tools.create_database - INFO - Processing Mary Kom's images...
+2025-08-19 21:01:53,696 - src.database.embeddings_db - INFO - Added identity: Mary Kom with 2 images
+2025-08-19 21:01:53,696 - tools.create_database - INFO - Added Mary Kom to database with 2 images
+2025-08-19 21:01:53,696 - tools.create_database - INFO - Processing Rajinikanth's images...
+2025-08-19 21:02:00,928 - src.database.embeddings_db - INFO - Added identity: Rajinikanth with 3 images
+2025-08-19 21:02:00,928 - tools.create_database - INFO - Added Rajinikanth to database with 3 images
+2025-08-19 21:02:00,929 - tools.create_database - INFO - Processing Dhanush's images...
+2025-08-19 21:02:03,348 - src.database.embeddings_db - INFO - Added identity: Dhanush with 3 images
+2025-08-19 21:02:03,348 - tools.create_database - INFO - Added Dhanush to database with 3 images
+2025-08-19 21:02:03,348 - tools.create_database - INFO - Processing Suraj's images...
+2025-08-19 21:02:06,432 - src.database.embeddings_db - INFO - Added identity: Suraj with 4 images
+2025-08-19 21:02:06,433 - tools.create_database - INFO - Added Suraj to database with 4 images
+2025-08-19 21:02:06,433 - tools.create_database - INFO - Processing mayank's images...
+2025-08-19 21:02:08,934 - src.database.embeddings_db - INFO - Added identity: mayank with 3 images
+2025-08-19 21:02:08,935 - tools.create_database - INFO - Added mayank to database with 3 images
+2025-08-19 21:02:08,935 - tools.create_database - INFO - Processing MS Dhoni's images...
+2025-08-19 21:02:11,038 - src.database.embeddings_db - INFO - Added identity: MS Dhoni with 3 images
+2025-08-19 21:02:11,039 - tools.create_database - INFO - Added MS Dhoni to database with 3 images
+2025-08-19 21:02:11,039 - tools.create_database - INFO - Processing Hardik Pandya's images...
+2025-08-19 21:02:12,409 - src.database.embeddings_db - INFO - Added identity: Hardik Pandya with 2 images
+2025-08-19 21:02:12,409 - tools.create_database - INFO - Added Hardik Pandya to database with 2 images
+2025-08-19 21:02:12,409 - tools.create_database - INFO - Processing Rahul Dravid's images...
+2025-08-19 21:02:14,724 - src.database.embeddings_db - INFO - Added identity: Rahul Dravid with 3 images
+2025-08-19 21:02:14,724 - tools.create_database - INFO - Added Rahul Dravid to database with 3 images
+2025-08-19 21:02:14,724 - tools.create_database - INFO - Processing Katrina Kaif's images...
+2025-08-19 21:02:16,993 - src.database.embeddings_db - INFO - Added identity: Katrina Kaif with 3 images
+2025-08-19 21:02:16,993 - tools.create_database - INFO - Added Katrina Kaif to database with 3 images
+2025-08-19 21:02:16,993 - tools.create_database - INFO - Processing Priyanka Chopra's images...
+2025-08-19 21:02:19,145 - src.database.embeddings_db - INFO - Added identity: Priyanka Chopra with 3 images
+2025-08-19 21:02:19,150 - tools.create_database - INFO - Added Priyanka Chopra to database with 3 images
+2025-08-19 21:02:19,151 - tools.create_database - INFO - Processing Madhuri Dixit's images...
+2025-08-19 21:02:21,138 - src.database.embeddings_db - INFO - Added identity: Madhuri Dixit with 3 images
+2025-08-19 21:02:21,139 - tools.create_database - INFO - Added Madhuri Dixit to database with 3 images
+2025-08-19 21:02:21,139 - tools.create_database - INFO - Processing Vidya Balan's images...
+2025-08-19 21:02:23,015 - src.database.embeddings_db - INFO - Added identity: Vidya Balan with 3 images
+2025-08-19 21:02:23,015 - tools.create_database - INFO - Added Vidya Balan to database with 3 images
+2025-08-19 21:02:23,016 - tools.create_database - INFO - Processing Ranbir Kapoor's images...
+2025-08-19 21:02:26,602 - src.database.embeddings_db - INFO - Added identity: Ranbir Kapoor with 3 images
+2025-08-19 21:02:26,602 - tools.create_database - INFO - Added Ranbir Kapoor to database with 3 images
+2025-08-19 21:02:26,603 - tools.create_database - INFO - Processing Sunil Chhetri's images...
+2025-08-19 21:02:28,626 - src.database.embeddings_db - INFO - Added identity: Sunil Chhetri with 3 images
+2025-08-19 21:02:28,626 - tools.create_database - INFO - Added Sunil Chhetri to database with 3 images
+2025-08-19 21:02:28,631 - tools.create_database - INFO - Processing Sonam Kapoor's images...
+2025-08-19 21:02:30,863 - src.database.embeddings_db - INFO - Added identity: Sonam Kapoor with 3 images
+2025-08-19 21:02:30,863 - tools.create_database - INFO - Added Sonam Kapoor to database with 3 images
+2025-08-19 21:02:30,863 - tools.create_database - INFO - Processing Sridevi's images...
+2025-08-19 21:02:32,996 - src.database.embeddings_db - INFO - Added identity: Sridevi with 3 images
+2025-08-19 21:02:32,996 - tools.create_database - INFO - Added Sridevi to database with 3 images
+2025-08-19 21:02:32,997 - tools.create_database - INFO - Processing vipin's images...
+2025-08-19 21:02:35,802 - src.database.embeddings_db - INFO - Added identity: vipin with 4 images
+2025-08-19 21:02:35,802 - tools.create_database - INFO - Added vipin to database with 4 images
+2025-08-19 21:02:35,803 - tools.create_database - INFO - Processing Arvind Kejriwal's images...
+2025-08-19 21:02:37,781 - src.database.embeddings_db - INFO - Added identity: Arvind Kejriwal with 3 images
+2025-08-19 21:02:37,781 - tools.create_database - INFO - Added Arvind Kejriwal to database with 3 images
+2025-08-19 21:02:37,781 - tools.create_database - INFO - Processing Ayushmann Khurrana's images...
+2025-08-19 21:02:40,086 - src.database.embeddings_db - INFO - Added identity: Ayushmann Khurrana with 3 images
+2025-08-19 21:02:40,086 - tools.create_database - INFO - Added Ayushmann Khurrana to database with 3 images
+2025-08-19 21:02:40,086 - tools.create_database - INFO - Processing Saina Nehwal's images...
+2025-08-19 21:02:43,414 - src.database.embeddings_db - INFO - Added identity: Saina Nehwal with 3 images
+2025-08-19 21:02:43,414 - tools.create_database - INFO - Added Saina Nehwal to database with 3 images
+2025-08-19 21:02:43,414 - tools.create_database - INFO - Processing Rani Mukerji's images...
+2025-08-19 21:02:45,066 - src.database.embeddings_db - INFO - Added identity: Rani Mukerji with 2 images
+2025-08-19 21:02:45,066 - tools.create_database - INFO - Added Rani Mukerji to database with 2 images
+2025-08-19 21:02:45,066 - tools.create_database - INFO - Processing Deepika Padukone's images...
+2025-08-19 21:02:48,218 - src.database.embeddings_db - INFO - Added identity: Deepika Padukone with 3 images
+2025-08-19 21:02:48,218 - tools.create_database - INFO - Added Deepika Padukone to database with 3 images
+2025-08-19 21:02:48,219 - tools.create_database - INFO - Processing Sushmita Sen's images...
+2025-08-19 21:02:50,070 - src.database.embeddings_db - INFO - Added identity: Sushmita Sen with 3 images
+2025-08-19 21:02:50,070 - tools.create_database - INFO - Added Sushmita Sen to database with 3 images
+2025-08-19 21:02:50,070 - tools.create_database - INFO - Processing Vijay's images...
+2025-08-19 21:02:52,027 - src.database.embeddings_db - INFO - Added identity: Vijay with 3 images
+2025-08-19 21:02:52,027 - tools.create_database - INFO - Added Vijay to database with 3 images
+2025-08-19 21:02:52,027 - tools.create_database - INFO - Processing Narendra Modi's images...
+2025-08-19 21:02:54,375 - src.database.embeddings_db - INFO - Added identity: Narendra Modi with 3 images
+2025-08-19 21:02:54,375 - tools.create_database - INFO - Added Narendra Modi to database with 3 images
+2025-08-19 21:02:54,375 - tools.create_database - INFO - Processing PV Sindhu's images...
+2025-08-19 21:02:59,864 - src.database.embeddings_db - INFO - Added identity: PV Sindhu with 3 images
+2025-08-19 21:02:59,864 - tools.create_database - INFO - Added PV Sindhu to database with 3 images
+2025-08-19 21:02:59,864 - tools.create_database - INFO - Processing Allu Arjun's images...
+2025-08-19 21:03:02,209 - src.database.embeddings_db - INFO - Added identity: Allu Arjun with 3 images
+2025-08-19 21:03:02,210 - tools.create_database - INFO - Added Allu Arjun to database with 3 images
+2025-08-19 21:03:02,210 - tools.create_database - INFO - Processing Jasprit Bumrah's images...
+2025-08-19 21:03:04,852 - src.database.embeddings_db - INFO - Added identity: Jasprit Bumrah with 3 images
+2025-08-19 21:03:04,853 - tools.create_database - INFO - Added Jasprit Bumrah to database with 3 images
+2025-08-19 21:03:04,853 - tools.create_database - INFO - Processing Rahul Gandhi's images...
+2025-08-19 21:03:06,857 - src.database.embeddings_db - INFO - Added identity: Rahul Gandhi with 3 images
+2025-08-19 21:03:06,857 - tools.create_database - INFO - Added Rahul Gandhi to database with 3 images
+2025-08-19 21:03:06,863 - src.database.embeddings_db - INFO - Saved database with 55 identities
+2025-08-19 21:03:06,864 - tools.create_database - INFO - Database created with 55 identities
+2025-08-19 21:03:06,864 - tools.create_database - INFO - Identities: Aamir Khan, Aishwarya Rai, Ajay Devgn, Akshay Kumar, Alia Bhatt, Allu Arjun, Amit Shah, Amitabh Bachchan, Anushka Sharma, Arvind Kejriwal, Ayushmann Khurrana, Deepika Padukone, Dhanush, Hardik Pandya, Hrithik Roshan, Jasprit Bumrah, Kamal Haasan, Kareena Kapoor, Katrina Kaif, Madhuri Dixit, Mary Kom, mayank, MS Dhoni, Narendra Modi, Neeraj Chopra, Prabhas, Priyanka Chopra, PV Sindhu, Rahul Dravid, Rahul Gandhi, Rajinikanth, Rajkummar Rao, Ranbir Kapoor, Rani Mukerji, Ranveer Singh, Rekha, Rohit Sharma, Sachin Tendulkar, Saina Nehwal, Salman Khan, Sania Mirza, Shah Rukh Khan, shubham, Sonam Kapoor, Sourav Ganguly, Sridevi, Sunil Chhetri, Sushmita Sen, Vidya Balan, Vijay, Virat Kohli, vipin, pratham, suraj, Suraj
+2025-08-19 21:03:06,910 - __main__ - INFO - Database creation completed
+2025-08-19 21:03:19,581 - __main__ - INFO - Testing recognition...
+2025-08-19 21:03:20,836 - src.face.detector - INFO - Initialized face detector with model: buffalo_l
+2025-08-19 21:03:20,837 - src.face.embedder - INFO - Initialized face embedder
+2025-08-19 21:03:20,837 - src.database.embeddings_db - INFO - Loaded database with 55 identities
+2025-08-19 21:03:20,837 - src.access_control.verifier - INFO - Initialized access verifier with standard database
+2025-08-19 21:03:21,623 - src.access_control.verifier - INFO - Access GRANTED - Person: Suraj, Score: 0.8478
+2025-08-19 21:03:21,623 - tools.test_recognition - INFO - Recognized as Suraj with score 0.8478 in 0.777s
+2025-08-19 21:03:21,623 - tools.test_recognition - INFO - Top matches:
+2025-08-19 21:03:21,624 - tools.test_recognition - INFO -   Suraj: 0.8478
+2025-08-19 21:03:21,624 - tools.test_recognition - INFO -   suraj: 0.8051
+2025-08-19 21:03:21,624 - tools.test_recognition - INFO -   shubham: 0.2714
+2025-08-19 21:03:21,624 - tools.test_recognition - INFO -   Priyanka Chopra: 0.2115
+2025-08-19 21:03:21,624 - tools.test_recognition - INFO -   Jasprit Bumrah: 0.1869
+2025-08-19 21:03:22,334 - src.access_control.verifier - INFO - Access GRANTED - Person: Suraj, Score: 0.8478
+2025-08-19 21:04:09,450 - __main__ - INFO - Testing completed

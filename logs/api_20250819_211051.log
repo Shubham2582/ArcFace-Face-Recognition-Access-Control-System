@@ -1,0 +1,19 @@
+2025-08-19 21:10:55,413 - faiss.loader - INFO - Loading faiss with AVX512 support.
+2025-08-19 21:10:55,485 - faiss.loader - INFO - Successfully loaded faiss with AVX512 support.
+2025-08-19 21:10:58,803 - src.face.detector - INFO - Initialized face detector with model: buffalo_l
+2025-08-19 21:10:58,803 - src.face.embedder - INFO - Initialized face embedder
+2025-08-19 21:10:58,811 - src.database.embeddings_db - INFO - Loaded database with 55 identities
+2025-08-19 21:10:58,811 - __main__ - INFO - Database loaded with 55 identities
+2025-08-19 21:10:58,817 - __main__ - INFO - Starting API server on 0.0.0.0:5000 in development mode
+2025-08-19 21:10:58,817 - __main__ - INFO - Verifying detector initialization...
+2025-08-19 21:10:58,818 - __main__ - INFO - Detector has required method: detect_faces
+2025-08-19 21:10:58,818 - __main__ - INFO - Detector has required method: get_largest_face
+2025-08-19 21:10:58,818 - __main__ - INFO - Detector has required method: draw_face_locations
+2025-08-19 21:10:58,823 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.16:5000
+2025-08-19 21:10:58,823 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-19 21:13:27,510 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2025 21:13:27] "[33mPOST /api/recogni HTTP/1.1[0m" 404 -
+2025-08-19 21:14:10,724 - __main__ - INFO - Processing uploaded file: WhatsApp_Image_2025-08-13_at_6.09.09_PM.jpeg
+2025-08-19 21:14:11,581 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2025 21:14:11] "POST /api/recognize HTTP/1.1" 200 -
