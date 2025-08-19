@@ -16,7 +16,7 @@ LOG_DIR = os.path.join(BASE_DIR, "logs")
 DETECTION_THRESHOLD = 0.6  # Confidence threshold for face detection
 RECOGNITION_THRESHOLD = 0.5  # Similarity threshold for face recognition
 USE_FAISS = False  # Whether to use FAISS for database operations
-MODEL_NAME = "buffalo_l"  # InsightFace model name
+MODEL_NAME = "buffalo_s"  # InsightFace model name
 
 # Face Detection Context
 DET_SIZE = (640, 640)  # Detection size
