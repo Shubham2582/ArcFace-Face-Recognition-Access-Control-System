@@ -17,4 +17,6 @@ faiss-cpu>=1.7.0  # CPU version, use faiss-gpu for GPU support
 
 # Optional dependencies
 # onnxruntime-gpu>=1.8.0  # For GPU acceleration of face detection/embedding
+
 # faiss-gpu>=1.7.0  # For GPU acceleration of database operations
+flask
