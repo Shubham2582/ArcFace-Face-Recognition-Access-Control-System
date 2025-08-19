@@ -20,7 +20,10 @@ MODEL_NAME = "buffalo_l"  # InsightFace model name
 
 # Face Detection Context
 DET_SIZE = (640, 640)  # Detection size
-CTX_ID = 0  # 0 for GPU, -1 for CPU
+CTX_ID = -1 if os.environ.get("RENDER") else 0  # Force CPU on Render, GPU locally
+
+# Environment Detection
+IS_PRODUCTION = bool(os.environ.get("RENDER"))  # True if running on Render
 
 # Image Processing
 FRAME_WIDTH = 640

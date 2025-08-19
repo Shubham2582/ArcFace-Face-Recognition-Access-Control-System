@@ -53,34 +53,70 @@ if not os.path.exists(UPLOAD_FOLDER):
 app.config["UPLOAD_FOLDER"] = UPLOAD_FOLDER
 app.config["MAX_CONTENT_LENGTH"] = 16 * 1024 * 1024  # Limit uploads to 16MB
 
-# Initialize components
-detector = FaceDetector(detection_threshold=settings.DETECTION_THRESHOLD)
+# Global variables for lazy loading
+detector = None
+embedder = None
+database = None
 
-# Verify detector has required methods
-required_methods = ["detect_faces", "get_largest_face", "draw_face_locations"]
-missing_methods = []
-for method in required_methods:
-    if not hasattr(detector, method):
-        missing_methods.append(method)
-        logger.error(f"Detector missing required method: {method}")
+def initialize_components():
+    """Initialize components only when needed (lazy loading)."""
+    global detector, embedder, database
+    
+    if detector is None:
+        logger.info("Initializing face detector...")
+        detector = FaceDetector(detection_threshold=settings.DETECTION_THRESHOLD)
+        
+        # Verify detector has required methods
+        required_methods = ["detect_faces", "get_largest_face", "draw_face_locations"]
+        missing_methods = []
+        for method in required_methods:
+            if not hasattr(detector, method):
+                missing_methods.append(method)
+                logger.error(f"Detector missing required method: {method}")
 
-if missing_methods:
-    logger.error(f"Detector is missing critical methods: {missing_methods}")
-    logger.error("API will likely fail. Please check your installation.")
-embedder = FaceEmbedder()
+        if missing_methods:
+            logger.error(f"Detector is missing critical methods: {missing_methods}")
+            raise Exception("Detector initialization failed")
+            
+    if embedder is None:
+        logger.info("Initializing face embedder...")
+        embedder = FaceEmbedder()
 
-# Initialize database (choose between FAISS and standard)
-if settings.USE_FAISS:
-    database = FaissDatabase()
-else:
-    database = EmbeddingsDatabase()
+    if database is None:
+        logger.info("Initializing database...")
+        # Initialize database (choose between FAISS and standard)
+        if settings.USE_FAISS:
+            database = FaissDatabase()
+        else:
+            database = EmbeddingsDatabase()
 
-# Check database at startup
-db_info = database.get_database_info()
-if db_info["num_identities"] == 0:
-    logger.warning("Database is empty. Please add identities first.")
-else:
-    logger.info(f"Database loaded with {db_info['num_identities']} identities")
+        # Check database at startup
+        db_info = database.get_database_info()
+        if db_info["num_identities"] == 0:
+            if settings.IS_PRODUCTION:
+                logger.error("Database is empty in production environment!")
+                raise Exception("Database is empty. Please ensure face_db.pkl contains valid data.")
+            else:
+                logger.warning("Database is empty. Please add identities first.")
+                raise Exception("Database is empty. Please ensure face_db.pkl contains valid data.")
+        else:
+            logger.info(f"Database loaded with {db_info['num_identities']} identities")
+
+# Initialize only the database at startup to check if it exists
+try:
+    if settings.USE_FAISS:
+        database = FaissDatabase()
+    else:
+        database = EmbeddingsDatabase()
+    
+    db_info = database.get_database_info()
+    if db_info["num_identities"] == 0:
+        logger.warning("Database is empty. Face recognition will not work until models are loaded.")
+    else:
+        logger.info(f"Database ready with {db_info['num_identities']} identities")
+except Exception as e:
+    logger.error(f"Database initialization failed: {e}")
+    database = None
 
 
 def process_image_recognition(image_data, recognition_threshold=None):
@@ -98,6 +134,9 @@ def process_image_recognition(image_data, recognition_threshold=None):
         recognition_threshold = settings.RECOGNITION_THRESHOLD
 
     try:
+        # Initialize components only when needed (lazy loading)
+        initialize_components()
+        
         # Start timing
         start_time = time.time()
 
@@ -265,6 +304,9 @@ def recognize_face():
 def health_check():
     """Health check endpoint."""
     try:
+        if database is None:
+            return jsonify({"status": "error", "error": "Database not initialized"}), 500
+            
         db_info = database.get_database_info()
         return jsonify(
             {
@@ -279,10 +321,32 @@ def health_check():
         return jsonify({"status": "error", "error": str(e)}), 500
 
 
+@app.route("/api/debug", methods=["GET"])
+def debug_info():
+    """Debug endpoint to check system status."""
+    try:
+        return jsonify({
+            "database_initialized": database is not None,
+            "detector_initialized": detector is not None,
+            "embedder_initialized": embedder is not None,
+            "is_production": settings.IS_PRODUCTION,
+            "db_path": settings.DB_PATH,
+            "db_file_exists": os.path.exists(settings.DB_PATH),
+            "ctx_id": settings.CTX_ID,
+            "model_name": settings.MODEL_NAME
+        })
+    except Exception as e:
+        logger.error(f"Debug info failed: {e}")
+        return jsonify({"error": str(e)}), 500
+
+
 @app.route("/api/database/info", methods=["GET"])
 def database_info():
     """Get database information."""
     try:
+        if database is None:
+            return jsonify({"success": False, "error": "Database not initialized"}), 500
+            
         db_info = database.get_database_info()
         return jsonify(
             {
@@ -337,17 +401,15 @@ if __name__ == "__main__":
         f"Starting API server on {host}:{port} in {'production' if production_mode else 'development'} mode"
     )
 
-    # Add more detailed logging at startup
-    logger.info("Verifying detector initialization...")
-    try:
-        test_methods = ["detect_faces", "get_largest_face", "draw_face_locations"]
-        for method in test_methods:
-            if not hasattr(detector, method):
-                logger.error(f"Detector missing required method: {method}")
-            else:
-                logger.info(f"Detector has required method: {method}")
-    except Exception as e:
-        logger.error(f"Error verifying detector: {e}")
+    # Log database status
+    if database is not None:
+        try:
+            db_info = database.get_database_info()
+            logger.info(f"Database ready with {db_info['num_identities']} identities")
+        except Exception as e:
+            logger.error(f"Database check failed: {e}")
+    else:
+        logger.warning("Database not initialized at startup")
 
     if production_mode:
         # In production mode, use Gunicorn instead (this won't execute)
