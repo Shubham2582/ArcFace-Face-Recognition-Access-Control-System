@@ -16,11 +16,11 @@ LOG_DIR = os.path.join(BASE_DIR, "logs")
 DETECTION_THRESHOLD = 0.6  # Confidence threshold for face detection
 RECOGNITION_THRESHOLD = 0.5  # Similarity threshold for face recognition
 USE_FAISS = False  # Whether to use FAISS for database operations
-MODEL_NAME = "buffalo_s"  # InsightFace model name
+MODEL_NAME = "buffalo_l"  # Use smaller, more efficient model
 
 # Face Detection Context
 DET_SIZE = (640, 640)  # Detection size
-CTX_ID = -1 if os.environ.get("RENDER") else 0  # Force CPU on Render, GPU locally
+CTX_ID = -1  # Force CPU mode (use -1 for CPU, 0 for GPU)
 
 # Environment Detection
 IS_PRODUCTION = bool(os.environ.get("RENDER"))  # True if running on Render
