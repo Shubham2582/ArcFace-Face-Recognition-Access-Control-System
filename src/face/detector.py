@@ -42,25 +42,12 @@ class FaceDetector:
     def _initialize_model(self):
         """Initialize the InsightFace model."""
         try:
-            logger.info(f"Initializing face detector with model: {self.model_name}")
-            logger.info(
-                f"Using context ID: {self.ctx_id} ({'GPU' if self.ctx_id >= 0 else 'CPU'})"
+            self.app = FaceAnalysis(
+                name=self.model_name,
+                providers=["AzureExecutionProvider", "CPUExecutionProvider"],
             )
-            logger.info(f"Detection size: {self.det_size}")
-
-            # Use only CPUExecutionProvider when ctx_id is -1 (CPU mode)
-            if self.ctx_id == -1:
-                providers = ["CPUExecutionProvider"]
-                logger.info("Using CPU-only execution")
-            else:
-                providers = ["CUDAExecutionProvider", "CPUExecutionProvider"]
-                logger.info("Using GPU with CPU fallback")
-
-            self.app = FaceAnalysis(name=self.model_name, providers=providers)
             self.app.prepare(ctx_id=self.ctx_id, det_size=self.det_size)
-            logger.info(
-                f"Successfully initialized face detector with model: {self.model_name}"
-            )
+            logger.info(f"Initialized face detector with model: {self.model_name}")
         except Exception as e:
             logger.error(f"Error initializing face detector: {e}")
             raise
