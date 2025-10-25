@@ -31,4 +31,20 @@ env/
 *.swp
 *.swo
 
+# Logs
 logs/
+
+# Images
+celeb_images/
+
+# Node.js
+node_modules/
+package-lock.json
+npm-debug.log
+
+# WhatsApp session files
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Environment files
+.env

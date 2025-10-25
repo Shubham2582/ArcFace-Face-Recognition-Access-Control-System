@@ -1,0 +1,27 @@
+{
+  "name": "face-recognition-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp bot for face recognition system",
+  "main": "whatsapp_bot.js",
+  "scripts": {
+    "start": "node whatsapp_bot.js",
+    "dev": "nodemon whatsapp_bot.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "face-recognition",
+    "bot"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "form-data": "^4.0.0",
+    "puppeteer": "^24.26.1",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.23.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
